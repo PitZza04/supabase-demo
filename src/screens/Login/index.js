@@ -1,20 +1,29 @@
 import { Text, TextInput, TouchableOpacity, View } from "react-native";
 import React, { useState } from "react";
 import styles from "./styles";
-import { supabase } from "../../config/initSupabase";
+import { useDispatch, useSelector } from "react-redux";
+import { authSignIn } from "../../redux/action/authSlice";
 const LoginScreen = ({ navigation }) => {
   const [password, setPassword] = useState();
   const [email, setEmail] = useState();
+  const dispatch = useDispatch();
+  const isLoading = useSelector((state) => state.auth.isLoading);
   const goToSignUp = () => {
     navigation.navigate("SignUp");
   };
-  const handleLogin = async () => {};
+  const handleLogin = async () => {
+    if (!email || !password) {
+      return alert("Email and Password is needed");
+    }
+    dispatch(authSignIn({ email, password }));
+  };
 
   return (
     <View style={styles.container}>
       {/* Text Input Container */}
       <View style={styles.loginForm}>
         <View style={styles.inputWrapper}>
+          <Text style={styles.text}>Email</Text>
           <TextInput
             style={styles.textInput}
             name="Email"
@@ -39,7 +48,7 @@ const LoginScreen = ({ navigation }) => {
           ></TextInput>
         </View>
         <TouchableOpacity onPress={handleLogin} style={styles.button}>
-          <Text style={styles.textBtn}>Login</Text>
+          <Text style={styles.textBtn}>{isLoading ? "Loading" : "Login"}</Text>
         </TouchableOpacity>
       </View>
     </View>

@@ -1,10 +1,11 @@
 import React from "react";
 import { SafeAreaProvider } from "react-native-safe-area-context";
-import { StyleSheet, Text, View, StatusBar } from "react-native";
+import { StatusBar } from "react-native";
 import "react-native-url-polyfill/auto";
 import RootNavigation from "./src/navigation";
-
-function App() {
+import { Provider } from "react-redux";
+import store from "./src/redux/reducer/store";
+export default function App() {
   return (
     <SafeAreaProvider>
       <StatusBar
@@ -13,9 +14,9 @@ function App() {
         backgroundColor="transparent"
         translucent={true}
       />
-      <RootNavigation />
+      <Provider store={store}>
+        <RootNavigation />
+      </Provider>
     </SafeAreaProvider>
   );
 }
-
-export default App;
