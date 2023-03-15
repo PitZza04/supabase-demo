@@ -1,4 +1,5 @@
 import { Text, TextInput, TouchableOpacity, View } from "react-native";
+import Icon from "react-native-vector-icons/MaterialIcons";
 import React, { useState } from "react";
 import styles from "./styles";
 import { useDispatch, useSelector } from "react-redux";
@@ -23,6 +24,7 @@ const LoginScreen = ({ navigation }) => {
       {/* Text Input Container */}
       <View style={styles.loginForm}>
         <View style={styles.inputWrapper}>
+          <Icon name="ballot" size={30} color="#900" />
           <Text style={styles.text}>Email</Text>
           <TextInput
             style={styles.textInput}
