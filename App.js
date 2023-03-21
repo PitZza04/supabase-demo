@@ -5,6 +5,8 @@ import "react-native-url-polyfill/auto";
 import RootNavigation from "./src/navigation";
 import { Provider } from "react-redux";
 import store from "./src/redux/reducer/store";
+import { SWRConfig } from "swr";
+
 export default function App() {
   return (
     <SafeAreaProvider>
@@ -14,9 +16,18 @@ export default function App() {
         backgroundColor="transparent"
         translucent={true}
       />
-      <Provider store={store}>
-        <RootNavigation />
-      </Provider>
+      <SWRConfig
+        value={{
+          provider: () => new Map(),
+          isVisible: () => {
+            return true;
+          },
+        }}
+      >
+        <Provider store={store}>
+          <RootNavigation />
+        </Provider>
+      </SWRConfig>
     </SafeAreaProvider>
   );
 }

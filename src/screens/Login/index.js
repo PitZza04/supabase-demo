@@ -1,7 +1,8 @@
 import { Text, TextInput, TouchableOpacity, View } from "react-native";
 import Icon from "react-native-vector-icons/MaterialIcons";
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import styles from "./styles";
+import AsyncStorage from "@react-native-async-storage/async-storage";
 import { useDispatch, useSelector } from "react-redux";
 import { authSignIn } from "../../redux/action/authSlice";
 const LoginScreen = ({ navigation }) => {
@@ -19,6 +20,13 @@ const LoginScreen = ({ navigation }) => {
     dispatch(authSignIn({ email, password }));
   };
 
+  // useEffect(() => {
+  //   const fetchKey = async () => {
+  //     const req = await AsyncStorage.getAllKeys();
+  //     console.log("All keys", req);
+  //   };
+  //   fetchKey();
+  // }, []);
   return (
     <View style={styles.container}>
       {/* Text Input Container */}

@@ -1,6 +1,6 @@
 import { createAsyncThunk, createSlice } from "@reduxjs/toolkit";
+import { supabase, getSession } from "../../config/initSupabase";
 
-import { supabase } from "../../config/initSupabase";
 const initialState = {
   isSignedIn: false,
   user: null,
@@ -21,28 +21,31 @@ export const authSignIn = createAsyncThunk(
     }
   }
 );
-export const authListener = createAsyncThunk(
-  "user/authListener",
-  async (_, { dispatch, rejectWithValue }) => {
-    try {
-      const { data: authListener } = supabase.auth.onAuthStateChange(
-        (_event) => {
-          switch (_event) {
-            case "SIGNED_OUT":
-              console.log("signout ka boy");
-              dispatch(setSignOut());
-              break;
-            default:
-          }
-        }
-      );
-      return authListener;
-    } catch (error) {
-      console.log(error);
-      return rejectWithValue(error);
-    }
-  }
-);
+// export const authListener = createAsyncThunk(
+//   "user/authListener",
+//   async (_, { dispatch, rejectWithValue }) => {
+//     try {
+//       const { data: authListener } = supabase.auth.onAuthStateChange(
+//         (_event, session) => {
+//           switch ((_event, session)) {
+//             default:
+//               console.log("session", session);
+//               if (session) {
+//                 dispatch(setSignIn(session));
+//               } else {
+//                 dispatch(setSignOut());
+//               }
+//               break;
+//           }
+//         }
+//       );
+//       return authListener;
+//     } catch (error) {
+//       console.log(error);
+//       return rejectWithValue(error);
+//     }
+//   }
+// );
 const authSlice = createSlice({
   name: "auth",
   initialState,
