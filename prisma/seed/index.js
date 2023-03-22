@@ -11,11 +11,13 @@ const main = async () => {
   for (const brand of data) {
     await prisma.Brand.create({
       data: {
-        name: brand.make,
+        name: brand.name,
+        img_url: brand.img_url,
         model: {
           createMany: {
-            data: brand.models.map((model) => ({
+            data: brand.Model.map((model) => ({
               name: model.name,
+              img_url: model.img_url,
             })),
           },
         },
@@ -23,9 +25,7 @@ const main = async () => {
     });
   }
 };
-// createMany: brand.models.map((model) => ({
-//   name: model.name,
-// })),
+
 main()
   .then(async () => {
     await prisma.$disconnect();
