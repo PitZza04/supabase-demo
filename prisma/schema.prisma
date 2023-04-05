@@ -7,75 +7,71 @@ datasource db {
   url      = env("DATABASE_URL")
 }
 
-model Address {
-  id               String         @id @db.Uuid
-  created_at       DateTime?      @default(now()) @db.Timestamptz(6)
-  street_address_1 String
-  street_address_2 String
-  region_id        String         @db.Uuid
-  province_id      String         @db.Uuid
-  city_id          String         @db.Uuid
-  brgy_id          String         @db.Uuid
-  barangay         Barangay       @relation(fields: [brgy_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
-  city             City           @relation(fields: [city_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
-  province         Province       @relation(fields: [province_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
-  region           Region         @relation(fields: [region_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
-  user_profile     User_profile[]
-  updated_at       DateTime?      @db.Timestamptz(6)
+model address {
+  id             Int            @id @default(autoincrement())
+  created_at     DateTime?      @default(now()) @db.Timestamptz(6)
+  province_id    Int
+  city_id        Int
+  brgy_id        Int
+  updated_at     DateTime?      @db.Timestamptz(6)
+  street_address String
+  region_id      Int
+  barangay       barangay       @relation(fields: [brgy_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  city           city           @relation(fields: [city_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  province       province       @relation(fields: [province_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  region         region         @relation(fields: [region_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  user_profile   user_profile[]
 }
 
-model Barangay {
-  id         String    @id @db.Uuid
-  created_at DateTime? @default(now()) @db.Timestamptz(6)
-  updated_at DateTime? @db.Timestamptz(6)
-  city_id    String    @db.Uuid
-  address    Address[]
-  city       City      @relation(fields: [city_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+model barangay {
+  id            Int       @id @default(autoincrement())
+  barangay_name String
+  city_id       Int
+  address       address[]
+  city          city      @relation(fields: [city_id], references: [id], onDelete: Cascade, onUpdate: NoAction)
 }
 
-model Brand {
+model brand {
   id         BigInt    @id @default(autoincrement())
   name       String
   img_url    String?
   created_at DateTime  @default(now()) @db.Timestamptz(6)
   updated_at DateTime? @db.Timestamptz(6)
-  model      Model[]
-  vehicle    Vehicle[]
+  model      model[]
+  vehicle    vehicle[]
 }
 
-model City {
-  id          String     @id @db.Uuid
-  created_at  DateTime?  @default(now()) @db.Timestamptz(6)
-  updated_at  DateTime?  @db.Timestamptz(6)
+model city {
+  id          Int        @id @default(autoincrement())
   city_name   String
-  province_id String     @db.Uuid
-  address     Address[]
-  barangay    Barangay[]
-  province    Province   @relation(fields: [province_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  province_id Int
+  address     address[]
+  barangay    barangay[]
+  province    province   @relation(fields: [province_id], references: [id], onDelete: Cascade, onUpdate: NoAction)
 }
 
-model Driver_license {
+model driver_license {
   id              String         @id(map: "driver_license_id_pkey") @db.Uuid
   created_at      DateTime?      @default(now()) @db.Timestamptz(6)
   license_no      String
   date_expiration DateTime?      @db.Date
   driver_img_url  String?
-  user_profile    User_profile[]
   updated_at      DateTime?      @db.Timestamptz(6)
+  user_profile    user_profile[]
 }
 
-model Model {
+model model {
   id         BigInt    @id @default(autoincrement())
   created_at DateTime? @default(now()) @db.Timestamptz(6)
   updated_at DateTime? @db.Timestamptz(6)
   name       String
   img_url    String?
   brand_id   BigInt
-  brand      Brand     @relation(fields: [brand_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
-  vehicle    Vehicle[]
+  brand      brand     @relation(fields: [brand_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  vehicle    vehicle[]
 }
 
-model Product {
+model product {
   id                   String            @id @db.Uuid
   created_at           DateTime?         @default(now()) @db.Timestamptz(6)
   product_name         String
@@ -86,65 +82,62 @@ model Product {
   published            Boolean
   services_category_id String            @db.Uuid
   services_type_id     String            @db.Uuid
-  services_category    Services_category @relation(fields: [services_category_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
-  services_type        Services_type     @relation(fields: [services_type_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  services_category    services_category @relation(fields: [services_category_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  services_type        services_type     @relation(fields: [services_type_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
 }
 
-model Province {
-  id            String    @id @db.Uuid
-  created_at    DateTime? @default(now()) @db.Timestamptz(6)
+model province {
+  id            Int       @id @default(autoincrement())
   province_name String?
-  updated_at    DateTime? @db.Timestamptz(6)
-  region_id     String    @db.Uuid
-  address       Address[]
-  city          City[]
-  region        Region    @relation(fields: [region_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  region_id     Int
+  address       address[]
+  city          city[]
+  region        region    @relation(fields: [region_id], references: [id], onDelete: Cascade, onUpdate: NoAction)
 }
 
-model Region {
-  id          String     @id @unique @db.Uuid
-  created_at  DateTime?  @default(now()) @db.Timestamptz(6)
-  updated_at  DateTime?  @db.Timestamptz(6)
+model region {
+  id          Int        @id @default(autoincrement())
   region_name String
-  address     Address[]
-  province    Province[]
+  region_code String
+  address     address[]
+  province    province[]
 }
 
-model Services_category {
+model services_category {
   id               String        @id @db.Uuid
   created_at       DateTime?     @default(now()) @db.Timestamptz(6)
   updated_at       DateTime?     @db.Timestamptz(6)
   services_type_id String        @db.Uuid
   category_name    String
-  product          Product[]
-  services_type    Services_type @relation(fields: [services_type_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  product          product[]
+  services_type    services_type @relation(fields: [services_type_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
 }
 
-model Services_type {
+model services_type {
   id                String              @id @db.Uuid
   created_at        DateTime?           @default(now()) @db.Timestamptz(6)
   updated_at        DateTime?           @db.Timestamptz(6)
   type_name         String
-  product           Product[]
-  services_category Services_category[]
+  product           product[]
+  services_category services_category[]
 }
 
-model User_profile {
+model user_profile {
   id                String          @id(map: "profiles_pkey") @db.Uuid
   created_at        DateTime?       @default(now()) @db.Timestamptz(6)
   updated_at        DateTime?       @db.Timestamptz(6)
-  email             String?         @unique
   metadata          Json?           @default("{\"birth\": \"\", \"fname\": \"\", \"lname\": \"\", \"mname\": \"\", \"gender\": \"\"}")
   avatar_url        String?
-  address_id        String?         @db.Uuid
+  address_id        Int
   driver_license_id String?         @db.Uuid
   gender            gender?
-  address           Address?        @relation(fields: [address_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
-  driver_license    Driver_license? @relation(fields: [driver_license_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
-  vehicle           Vehicle[]
+  email             String?         @unique
+  address           address         @relation(fields: [address_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  driver_license    driver_license? @relation(fields: [driver_license_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  vehicle           vehicle[]
 }
 
-model Vehicle {
+model vehicle {
   id           BigInt       @id @default(autoincrement())
   created_at   DateTime?    @default(now()) @db.Timestamptz(6)
   plate_no     String?
@@ -154,10 +147,10 @@ model Vehicle {
   user_id      String       @db.Uuid
   brand_id     BigInt
   model_id     BigInt
-  brand        Brand        @relation(fields: [brand_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
-  model        Model        @relation(fields: [model_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
-  user_profile User_profile @relation(fields: [user_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
   updated_at   DateTime?    @db.Timestamptz(6)
+  brand        brand        @relation(fields: [brand_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  model        model        @relation(fields: [model_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  user_profile user_profile @relation(fields: [user_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
 }
 
 enum gender {
@@ -170,5 +163,3 @@ enum status {
   inactive
   deleted
 }
-
-//lockdown all tables

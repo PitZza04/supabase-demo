@@ -1,4 +1,4 @@
-import { Text, TextInput, TouchableOpacity, View } from "react-native";
+import { Text, TextInput, TouchableOpacity, View, Button } from "react-native";
 import Icon from "react-native-vector-icons/MaterialIcons";
 import React, { useEffect, useState } from "react";
 import styles from "./styles";
@@ -19,17 +19,8 @@ const LoginScreen = ({ navigation }) => {
     }
     dispatch(authSignIn({ email, password }));
   };
-
-  // useEffect(() => {
-  //   const fetchKey = async () => {
-  //     const req = await AsyncStorage.getAllKeys();
-  //     console.log("All keys", req);
-  //   };
-  //   fetchKey();
-  // }, []);
   return (
     <View style={styles.container}>
-      {/* Text Input Container */}
       <View style={styles.loginForm}>
         <View style={styles.inputWrapper}>
           <Icon name="ballot" size={30} color="#900" />
@@ -60,6 +51,7 @@ const LoginScreen = ({ navigation }) => {
         <TouchableOpacity onPress={handleLogin} style={styles.button}>
           <Text style={styles.textBtn}>{isLoading ? "Loading" : "Login"}</Text>
         </TouchableOpacity>
+        <Button title="Go to Sign Up" onPress={goToSignUp} />
       </View>
     </View>
   );

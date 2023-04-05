@@ -11,6 +11,7 @@ const styles = StyleSheet.create({
     marginBottom: 10,
     borderWidth: 1,
     width: 200,
+    padding: 10,
     alignItems: "center",
     borderColor: "black",
   },

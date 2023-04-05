@@ -1,0 +1,1648 @@
+id,city_name,province_id
+1,Adams,1
+2,Bacarra,1
+3,Badoc,1
+4,Bangui,1
+5,City Of Batac,1
+6,Burgos,1
+7,Carasi,1
+8,Currimao,1
+9,Dingras,1
+10,Dumalneg,1
+11,Banna (Espiritu),1
+12,Laoag City (Capital),1
+13,Marcos,1
+14,Nueva Era,1
+15,Pagudpud,1
+16,Paoay,1
+17,Pasuquin,1
+18,Piddig,1
+19,Pinili,1
+20,San Nicolas,1
+21,Sarrat,1
+22,Solsona,1
+23,Vintar,1
+24,Alilem,2
+25,Banayoyo,2
+26,Bantay,2
+27,Burgos,2
+28,Cabugao,2
+29,City Of Candon,2
+30,Caoayan,2
+31,Cervantes,2
+32,Galimuyod,2
+33,Gregorio Del Pilar (Concepcion),2
+34,Lidlidda,2
+35,Magsingal,2
+36,Nagbukel,2
+37,Narvacan,2
+38,Quirino (Angkaki),2
+39,Salcedo (Baugen),2
+40,San Emilio,2
+41,San Esteban,2
+42,San Ildefonso,2
+43,San Juan (Lapog),2
+44,San Vicente,2
+45,Santa,2
+46,Santa Catalina,2
+47,Santa Cruz,2
+48,Santa Lucia,2
+49,Santa Maria,2
+50,Santiago,2
+51,Santo Domingo,2
+52,Sigay,2
+53,Sinait,2
+54,Sugpon,2
+55,Suyo,2
+56,Tagudin,2
+57,City Of Vigan (Capital),2
+58,Agoo,3
+59,Aringay,3
+60,Bacnotan,3
+61,Bagulin,3
+62,Balaoan,3
+63,Bangar,3
+64,Bauang,3
+65,Burgos,3
+66,Caba,3
+67,Luna,3
+68,Naguilian,3
+69,Pugo,3
+70,Rosario,3
+71,City Of San Fernando (Capital),3
+72,San Gabriel,3
+73,San Juan,3
+74,Santo Tomas,3
+75,Santol,3
+76,Sudipen,3
+77,Tubao,3
+78,Agno,4
+79,Aguilar,4
+80,City Of Alaminos,4
+81,Alcala,4
+82,Anda,4
+83,Asingan,4
+84,Balungao,4
+85,Bani,4
+86,Basista,4
+87,Bautista,4
+88,Bayambang,4
+89,Binalonan,4
+90,Binmaley,4
+91,Bolinao,4
+92,Bugallon,4
+93,Burgos,4
+94,Calasiao,4
+95,Dagupan City,4
+96,Dasol,4
+97,Infanta,4
+98,Labrador,4
+99,Lingayen (Capital),4
+100,Mabini,4
+101,Malasiqui,4
+102,Manaoag,4
+103,Mangaldan,4
+104,Mangatarem,4
+105,Mapandan,4
+106,Natividad,4
+107,Pozorrubio,4
+108,Rosales,4
+109,San Carlos City,4
+110,San Fabian,4
+111,San Jacinto,4
+112,San Manuel,4
+113,San Nicolas,4
+114,San Quintin,4
+115,Santa Barbara,4
+116,Santa Maria,4
+117,Santo Tomas,4
+118,Sison,4
+119,Sual,4
+120,Tayug,4
+121,Umingan,4
+122,Urbiztondo,4
+123,City Of Urdaneta,4
+124,Villasis,4
+125,Laoac,4
+126,Basco (Capital),5
+127,Itbayat,5
+128,Ivana,5
+129,Mahatao,5
+130,Sabtang,5
+131,Uyugan,5
+132,Abulug,6
+133,Alcala,6
+134,Allacapan,6
+135,Amulung,6
+136,Aparri,6
+137,Baggao,6
+138,Ballesteros,6
+139,Buguey,6
+140,Calayan,6
+141,Camalaniugan,6
+142,Claveria,6
+143,Enrile,6
+144,Gattaran,6
+145,Gonzaga,6
+146,Iguig,6
+147,Lal-lo,6
+148,Lasam,6
+149,Pamplona,6
+150,Peñablanca,6
+151,Piat,6
+152,Rizal,6
+153,Sanchez-mira,6
+154,Santa Ana,6
+155,Santa Praxedes,6
+156,Santa Teresita,6
+157,Santo Niño (Faire),6
+158,Solana,6
+159,Tuao,6
+160,Tuguegarao City (Capital),6
+161,Alicia,7
+162,Angadanan,7
+163,Aurora,7
+164,Benito Soliven,7
+165,Burgos,7
+166,Cabagan,7
+167,Cabatuan,7
+168,City Of Cauayan,7
+169,Cordon,7
+170,Dinapigue,7
+171,Divilacan,7
+172,Echague,7
+173,Gamu,7
+174,Ilagan City (Capital),7
+175,Jones,7
+176,Luna,7
+177,Maconacon,7
+178,Delfin Albano (Magsaysay),7
+179,Mallig,7
+180,Naguilian,7
+181,Palanan,7
+182,Quezon,7
+183,Quirino,7
+184,Ramon,7
+185,Reina Mercedes,7
+186,Roxas,7
+187,San Agustin,7
+188,San Guillermo,7
+189,San Isidro,7
+190,San Manuel,7
+191,San Mariano,7
+192,San Mateo,7
+193,San Pablo,7
+194,Santa Maria,7
+195,City Of Santiago,7
+196,Santo Tomas,7
+197,Tumauini,7
+198,Ambaguio,8
+199,Aritao,8
+200,Bagabag,8
+201,Bambang,8
+202,Bayombong (Capital),8
+203,Diadi,8
+204,Dupax Del Norte,8
+205,Dupax Del Sur,8
+206,Kasibu,8
+207,Kayapa,8
+208,Quezon,8
+209,Santa Fe,8
+210,Solano,8
+211,Villaverde,8
+212,Alfonso Castaneda,8
+213,Aglipay,9
+214,Cabarroguis (Capital),9
+215,Diffun,9
+216,Maddela,9
+217,Saguday,9
+218,Nagtipunan,9
+219,Abucay,10
+220,Bagac,10
+221,City Of Balanga (Capital),10
+222,Dinalupihan,10
+223,Hermosa,10
+224,Limay,10
+225,Mariveles,10
+226,Morong,10
+227,Orani,10
+228,Orion,10
+229,Pilar,10
+230,Samal,10
+231,Angat,11
+232,Balagtas (Bigaa),11
+233,Baliuag,11
+234,Bocaue,11
+235,Bulacan,11
+236,Bustos,11
+237,Calumpit,11
+238,Guiguinto,11
+239,Hagonoy,11
+240,City Of Malolos (Capital),11
+241,Marilao,11
+242,City Of Meycauayan,11
+243,Norzagaray,11
+244,Obando,11
+245,Pandi,11
+246,Paombong,11
+247,Plaridel,11
+248,Pulilan,11
+249,San Ildefonso,11
+250,City Of San Jose Del Monte,11
+251,San Miguel,11
+252,San Rafael,11
+253,Santa Maria,11
+254,Doña Remedios Trinidad,11
+255,Aliaga,12
+256,Bongabon,12
+257,Cabanatuan City,12
+258,Cabiao,12
+259,Carranglan,12
+260,Cuyapo,12
+261,Gabaldon (Bitulok & Sabani),12
+262,City Of Gapan,12
+263,General Mamerto Natividad,12
+264,General Tinio (Papaya),12
+265,Guimba,12
+266,Jaen,12
+267,Laur,12
+268,Licab,12
+269,Llanera,12
+270,Lupao,12
+271,Science City Of Muñoz,12
+272,Nampicuan,12
+273,Palayan City (Capital),12
+274,Pantabangan,12
+275,Peñaranda,12
+276,Quezon,12
+277,Rizal,12
+278,San Antonio,12
+279,San Isidro,12
+280,San Jose City,12
+281,San Leonardo,12
+282,Santa Rosa,12
+283,Santo Domingo,12
+284,Talavera,12
+285,Talugtug,12
+286,Zaragoza,12
+287,Angeles City,13
+288,Apalit,13
+289,Arayat,13
+290,Bacolor,13
+291,Candaba,13
+292,Floridablanca,13
+293,Guagua,13
+294,Lubao,13
+295,Mabalacat City,13
+296,Macabebe,13
+297,Magalang,13
+298,Masantol,13
+299,Mexico,13
+300,Minalin,13
+301,Porac,13
+302,City Of San Fernando (Capital),13
+303,San Luis,13
+304,San Simon,13
+305,Santa Ana,13
+306,Santa Rita,13
+307,Santo Tomas,13
+308,Sasmuan (Sexmoan),13
+309,Anao,14
+310,Bamban,14
+311,Camiling,14
+312,Capas,14
+313,Concepcion,14
+314,Gerona,14
+315,La Paz,14
+316,Mayantoc,14
+317,Moncada,14
+318,Paniqui,14
+319,Pura,14
+320,Ramos,14
+321,San Clemente,14
+322,San Manuel,14
+323,Santa Ignacia,14
+324,City Of Tarlac (Capital),14
+325,Victoria,14
+326,San Jose,14
+327,Botolan,15
+328,Cabangan,15
+329,Candelaria,15
+330,Castillejos,15
+331,Iba (Capital),15
+332,Masinloc,15
+333,Olongapo City,15
+334,Palauig,15
+335,San Antonio,15
+336,San Felipe,15
+337,San Marcelino,15
+338,San Narciso,15
+339,Santa Cruz,15
+340,Subic,15
+341,Baler (Capital),16
+342,Casiguran,16
+343,Dilasag,16
+344,Dinalungan,16
+345,Dingalan,16
+346,Dipaculao,16
+347,Maria Aurora,16
+348,San Luis,16
+349,Agoncillo,17
+350,Alitagtag,17
+351,Balayan,17
+352,Balete,17
+353,Batangas City (Capital),17
+354,Bauan,17
+355,Calaca,17
+356,Calatagan,17
+357,Cuenca,17
+358,Ibaan,17
+359,Laurel,17
+360,Lemery,17
+361,Lian,17
+362,Lipa City,17
+363,Lobo,17
+364,Mabini,17
+365,Malvar,17
+366,Mataasnakahoy,17
+367,Nasugbu,17
+368,Padre Garcia,17
+369,Rosario,17
+370,San Jose,17
+371,San Juan,17
+372,San Luis,17
+373,San Nicolas,17
+374,San Pascual,17
+375,Santa Teresita,17
+376,Santo Tomas,17
+377,Taal,17
+378,Talisay,17
+379,City Of Tanauan,17
+380,Taysan,17
+381,Tingloy,17
+382,Tuy,17
+383,Alfonso,18
+384,Amadeo,18
+385,Bacoor City,18
+386,Carmona,18
+387,Cavite City,18
+388,City Of Dasmariñas,18
+389,General Emilio Aguinaldo,18
+390,General Trias,18
+391,Imus City,18
+392,Indang,18
+393,Kawit,18
+394,Magallanes,18
+395,Maragondon,18
+396,Mendez (Mendez-nuñez),18
+397,Naic,18
+398,Noveleta,18
+399,Rosario,18
+400,Silang,18
+401,Tagaytay City,18
+402,Tanza,18
+403,Ternate,18
+404,Trece Martires City (Capital),18
+405,Gen. Mariano Alvarez,18
+406,Alaminos,19
+407,Bay,19
+408,City Of Biñan,19
+409,Cabuyao City,19
+410,City Of Calamba,19
+411,Calauan,19
+412,Cavinti,19
+413,Famy,19
+414,Kalayaan,19
+415,Liliw,19
+416,Los Baños,19
+417,Luisiana,19
+418,Lumban,19
+419,Mabitac,19
+420,Magdalena,19
+421,Majayjay,19
+422,Nagcarlan,19
+423,Paete,19
+424,Pagsanjan,19
+425,Pakil,19
+426,Pangil,19
+427,Pila,19
+428,Rizal,19
+429,San Pablo City,19
+430,City Of San Pedro,19
+431,Santa Cruz (Capital),19
+432,Santa Maria,19
+433,City Of Santa Rosa,19
+434,Siniloan,19
+435,Victoria,19
+436,Agdangan,20
+437,Alabat,20
+438,Atimonan,20
+439,Buenavista,20
+440,Burdeos,20
+441,Calauag,20
+442,Candelaria,20
+443,Catanauan,20
+444,Dolores,20
+445,General Luna,20
+446,General Nakar,20
+447,Guinayangan,20
+448,Gumaca,20
+449,Infanta,20
+450,Jomalig,20
+451,Lopez,20
+452,Lucban,20
+453,Lucena City (Capital),20
+454,Macalelon,20
+455,Mauban,20
+456,Mulanay,20
+457,Padre Burgos,20
+458,Pagbilao,20
+459,Panukulan,20
+460,Patnanungan,20
+461,Perez,20
+462,Pitogo,20
+463,Plaridel,20
+464,Polillo,20
+465,Quezon,20
+466,Real,20
+467,Sampaloc,20
+468,San Andres,20
+469,San Antonio,20
+470,San Francisco (Aurora),20
+471,San Narciso,20
+472,Sariaya,20
+473,Tagkawayan,20
+474,City Of Tayabas,20
+475,Tiaong,20
+476,Unisan,20
+477,Angono,21
+478,City Of Antipolo,21
+479,Baras,21
+480,Binangonan,21
+481,Cainta,21
+482,Cardona,21
+483,Jala-jala,21
+484,Rodriguez (Montalban),21
+485,Morong,21
+486,Pililla,21
+487,San Mateo,21
+488,Tanay,21
+489,Taytay,21
+490,Teresa,21
+491,Boac (Capital),22
+492,Buenavista,22
+493,Gasan,22
+494,Mogpog,22
+495,Santa Cruz,22
+496,Torrijos,22
+497,Abra De Ilog,23
+498,Calintaan,23
+499,Looc,23
+500,Lubang,23
+501,Magsaysay,23
+502,Mamburao (Capital),23
+503,Paluan,23
+504,Rizal,23
+505,Sablayan,23
+506,San Jose,23
+507,Santa Cruz,23
+508,Baco,24
+509,Bansud,24
+510,Bongabong,24
+511,Bulalacao (San Pedro),24
+512,City Of Calapan (Capital),24
+513,Gloria,24
+514,Mansalay,24
+515,Naujan,24
+516,Pinamalayan,24
+517,Pola,24
+518,Puerto Galera,24
+519,Roxas,24
+520,San Teodoro,24
+521,Socorro,24
+522,Victoria,24
+523,Aborlan,25
+524,Agutaya,25
+525,Araceli,25
+526,Balabac,25
+527,Bataraza,25
+528,Brooke's Point,25
+529,Busuanga,25
+530,Cagayancillo,25
+531,Coron,25
+532,Cuyo,25
+533,Dumaran,25
+534,El Nido (Bacuit),25
+535,Linapacan,25
+536,Magsaysay,25
+537,Narra,25
+538,Puerto Princesa City (Capital),25
+539,Quezon,25
+540,Roxas,25
+541,San Vicente,25
+542,Taytay,25
+543,Kalayaan,25
+544,Culion,25
+545,Rizal (Marcos),25
+546,Sofronio Española,25
+547,Alcantara,26
+548,Banton,26
+549,Cajidiocan,26
+550,Calatrava,26
+551,Concepcion,26
+552,Corcuera,26
+553,Looc,26
+554,Magdiwang,26
+555,Odiongan,26
+556,Romblon (Capital),26
+557,San Agustin,26
+558,San Andres,26
+559,San Fernando,26
+560,San Jose,26
+561,Santa Fe,26
+562,Ferrol,26
+563,Santa Maria (Imelda),26
+564,Bacacay,27
+565,Camalig,27
+566,Daraga (Locsin),27
+567,Guinobatan,27
+568,Jovellar,27
+569,Legazpi City (Capital),27
+570,Libon,27
+571,City Of Ligao,27
+572,Malilipot,27
+573,Malinao,27
+574,Manito,27
+575,Oas,27
+576,Pio Duran,27
+577,Polangui,27
+578,Rapu-rapu,27
+579,Santo Domingo (Libog),27
+580,City Of Tabaco,27
+581,Tiwi,27
+582,Basud,28
+583,Capalonga,28
+584,Daet (Capital),28
+585,San Lorenzo Ruiz (Imelda),28
+586,Jose Panganiban,28
+587,Labo,28
+588,Mercedes,28
+589,Paracale,28
+590,San Vicente,28
+591,Santa Elena,28
+592,Talisay,28
+593,Vinzons,28
+594,Baao,29
+595,Balatan,29
+596,Bato,29
+597,Bombon,29
+598,Buhi,29
+599,Bula,29
+600,Cabusao,29
+601,Calabanga,29
+602,Camaligan,29
+603,Canaman,29
+604,Caramoan,29
+605,Del Gallego,29
+606,Gainza,29
+607,Garchitorena,29
+608,Goa,29
+609,Iriga City,29
+610,Lagonoy,29
+611,Libmanan,29
+612,Lupi,29
+613,Magarao,29
+614,Milaor,29
+615,Minalabac,29
+616,Nabua,29
+617,Naga City,29
+618,Ocampo,29
+619,Pamplona,29
+620,Pasacao,29
+621,Pili (Capital),29
+622,Presentacion (Parubcan),29
+623,Ragay,29
+624,Sagñay,29
+625,San Fernando,29
+626,San Jose,29
+627,Sipocot,29
+628,Siruma,29
+629,Tigaon,29
+630,Tinambac,29
+631,Bagamanoc,30
+632,Baras,30
+633,Bato,30
+634,Caramoran,30
+635,Gigmoto,30
+636,Pandan,30
+637,Panganiban,30
+638,San Andres,30
+639,San Miguel,30
+640,Viga,30
+641,Virac,30
+642,Aroroy,31
+643,Baleno,31
+644,Balud,31
+645,Batuan,31
+646,Cataingan,31
+647,Cawayan,31
+648,Claveria,31
+649,Dimasalang,31
+650,Esperanza,31
+651,Mandaon,31
+652,City Of Masbate (Capital),31
+653,Milagros,31
+654,Mobo,31
+655,Monreal,31
+656,Palanas,31
+657,Pio V. Corpuz (Limbuhan),31
+658,Placer,31
+659,San Fernando,31
+660,San Jacinto,31
+661,San Pascual,31
+662,Uson,31
+663,Barcelona,32
+664,Bulan,32
+665,Bulusan,32
+666,Casiguran,32
+667,Castilla,32
+668,Donsol,32
+669,Gubat,32
+670,Irosin,32
+671,Juban,32
+672,Magallanes,32
+673,Matnog,32
+674,Pilar,32
+675,Prieto Diaz,32
+676,Santa Magdalena,32
+677,City Of Sorsogon (Capital),32
+678,Altavas,33
+679,Balete,33
+680,Banga,33
+681,Batan,33
+682,Buruanga,33
+683,Ibajay,33
+684,Kalibo (Capital),33
+685,Lezo,33
+686,Libacao,33
+687,Madalag,33
+688,Makato,33
+689,Malay,33
+690,Malinao,33
+691,Nabas,33
+692,New Washington,33
+693,Numancia,33
+694,Tangalan,33
+695,Anini-y,34
+696,Barbaza,34
+697,Belison,34
+698,Bugasong,34
+699,Caluya,34
+700,Culasi,34
+701,Tobias Fornier (Dao),34
+702,Hamtic,34
+703,Laua-an,34
+704,Libertad,34
+705,Pandan,34
+706,Patnongon,34
+707,San Jose (Capital),34
+708,San Remigio,34
+709,Sebaste,34
+710,Sibalom,34
+711,Tibiao,34
+712,Valderrama,34
+713,Cuartero,35
+714,Dao,35
+715,Dumalag,35
+716,Dumarao,35
+717,Ivisan,35
+718,Jamindan,35
+719,Ma-ayon,35
+720,Mambusao,35
+721,Panay,35
+722,Panitan,35
+723,Pilar,35
+724,Pontevedra,35
+725,President Roxas,35
+726,Roxas City (Capital),35
+727,Sapi-an,35
+728,Sigma,35
+729,Tapaz,35
+730,Ajuy,36
+731,Alimodian,36
+732,Anilao,36
+733,Badiangan,36
+734,Balasan,36
+735,Banate,36
+736,Barotac Nuevo,36
+737,Barotac Viejo,36
+738,Batad,36
+739,Bingawan,36
+740,Cabatuan,36
+741,Calinog,36
+742,Carles,36
+743,Concepcion,36
+744,Dingle,36
+745,Dueñas,36
+746,Dumangas,36
+747,Estancia,36
+748,Guimbal,36
+749,Igbaras,36
+750,Iloilo City (Capital),36
+751,Janiuay,36
+752,Lambunao,36
+753,Leganes,36
+754,Lemery,36
+755,Leon,36
+756,Maasin,36
+757,Miagao,36
+758,Mina,36
+759,New Lucena,36
+760,Oton,36
+761,City Of Passi,36
+762,Pavia,36
+763,Pototan,36
+764,San Dionisio,36
+765,San Enrique,36
+766,San Joaquin,36
+767,San Miguel,36
+768,San Rafael,36
+769,Santa Barbara,36
+770,Sara,36
+771,Tigbauan,36
+772,Tubungan,36
+773,Zarraga,36
+774,Bacolod City (Capital),37
+775,Bago City,37
+776,Binalbagan,37
+777,Cadiz City,37
+778,Calatrava,37
+779,Candoni,37
+780,Cauayan,37
+781,Enrique B. Magalona (Saravia),37
+782,City Of Escalante,37
+783,City Of Himamaylan,37
+784,Hinigaran,37
+785,Hinoba-an (Asia),37
+786,Ilog,37
+787,Isabela,37
+788,City Of Kabankalan,37
+789,La Carlota City,37
+790,La Castellana,37
+791,Manapla,37
+792,Moises Padilla (Magallon),37
+793,Murcia,37
+794,Pontevedra,37
+795,Pulupandan,37
+796,Sagay City,37
+797,San Carlos City,37
+798,San Enrique,37
+799,Silay City,37
+800,City Of Sipalay,37
+801,City Of Talisay,37
+802,Toboso,37
+803,Valladolid,37
+804,City Of Victorias,37
+805,Salvador Benedicto,37
+806,Buenavista,38
+807,Jordan (Capital),38
+808,Nueva Valencia,38
+809,San Lorenzo,38
+810,Sibunag,38
+811,Alburquerque,39
+812,Alicia,39
+813,Anda,39
+814,Antequera,39
+815,Baclayon,39
+816,Balilihan,39
+817,Batuan,39
+818,Bilar,39
+819,Buenavista,39
+820,Calape,39
+821,Candijay,39
+822,Carmen,39
+823,Catigbian,39
+824,Clarin,39
+825,Corella,39
+826,Cortes,39
+827,Dagohoy,39
+828,Danao,39
+829,Dauis,39
+830,Dimiao,39
+831,Duero,39
+832,Garcia Hernandez,39
+833,Guindulman,39
+834,Inabanga,39
+835,Jagna,39
+836,Jetafe,39
+837,Lila,39
+838,Loay,39
+839,Loboc,39
+840,Loon,39
+841,Mabini,39
+842,Maribojoc,39
+843,Panglao,39
+844,Pilar,39
+845,Pres. Carlos P. Garcia (Pitogo),39
+846,Sagbayan (Borja),39
+847,San Isidro,39
+848,San Miguel,39
+849,Sevilla,39
+850,Sierra Bullones,39
+851,Sikatuna,39
+852,Tagbilaran City (Capital),39
+853,Talibon,39
+854,Trinidad,39
+855,Tubigon,39
+856,Ubay,39
+857,Valencia,39
+858,Bien Unido,39
+859,Alcantara,40
+860,Alcoy,40
+861,Alegria,40
+862,Aloguinsan,40
+863,Argao,40
+864,Asturias,40
+865,Badian,40
+866,Balamban,40
+867,Bantayan,40
+868,Barili,40
+869,City Of Bogo,40
+870,Boljoon,40
+871,Borbon,40
+872,City Of Carcar,40
+873,Carmen,40
+874,Catmon,40
+875,Cebu City (Capital),40
+876,Compostela,40
+877,Consolacion,40
+878,Cordova,40
+879,Daanbantayan,40
+880,Dalaguete,40
+881,Danao City,40
+882,Dumanjug,40
+883,Ginatilan,40
+884,Lapu-lapu City (Opon),40
+885,Liloan,40
+886,Madridejos,40
+887,Malabuyoc,40
+888,Mandaue City,40
+889,Medellin,40
+890,Minglanilla,40
+891,Moalboal,40
+892,City Of Naga,40
+893,Oslob,40
+894,Pilar,40
+895,Pinamungahan,40
+896,Poro,40
+897,Ronda,40
+898,Samboan,40
+899,San Fernando,40
+900,San Francisco,40
+901,San Remigio,40
+902,Santa Fe,40
+903,Santander,40
+904,Sibonga,40
+905,Sogod,40
+906,Tabogon,40
+907,Tabuelan,40
+908,City Of Talisay,40
+909,Toledo City,40
+910,Tuburan,40
+911,Tudela,40
+912,Amlan (Ayuquitan),41
+913,Ayungon,41
+914,Bacong,41
+915,Bais City,41
+916,Basay,41
+917,City Of Bayawan (Tulong),41
+918,Bindoy (Payabon),41
+919,Canlaon City,41
+920,Dauin,41
+921,Dumaguete City (Capital),41
+922,City Of Guihulngan,41
+923,Jimalalud,41
+924,La Libertad,41
+925,Mabinay,41
+926,Manjuyod,41
+927,Pamplona,41
+928,San Jose,41
+929,Santa Catalina,41
+930,Siaton,41
+931,Sibulan,41
+932,City Of Tanjay,41
+933,Tayasan,41
+934,Valencia (Luzurriaga),41
+935,Vallehermoso,41
+936,Zamboanguita,41
+937,Enrique Villanueva,42
+938,Larena,42
+939,Lazi,42
+940,Maria,42
+941,San Juan,42
+942,Siquijor (Capital),42
+943,Arteche,43
+944,Balangiga,43
+945,Balangkayan,43
+946,City Of Borongan (Capital),43
+947,Can-avid,43
+948,Dolores,43
+949,General Macarthur,43
+950,Giporlos,43
+951,Guiuan,43
+952,Hernani,43
+953,Jipapad,43
+954,Lawaan,43
+955,Llorente,43
+956,Maslog,43
+957,Maydolong,43
+958,Mercedes,43
+959,Oras,43
+960,Quinapondan,43
+961,Salcedo,43
+962,San Julian,43
+963,San Policarpo,43
+964,Sulat,43
+965,Taft,43
+966,Abuyog,44
+967,Alangalang,44
+968,Albuera,44
+969,Babatngon,44
+970,Barugo,44
+971,Bato,44
+972,City Of Baybay,44
+973,Burauen,44
+974,Calubian,44
+975,Capoocan,44
+976,Carigara,44
+977,Dagami,44
+978,Dulag,44
+979,Hilongos,44
+980,Hindang,44
+981,Inopacan,44
+982,Isabel,44
+983,Jaro,44
+984,Javier (Bugho),44
+985,Julita,44
+986,Kananga,44
+987,La Paz,44
+988,Leyte,44
+989,Macarthur,44
+990,Mahaplag,44
+991,Matag-ob,44
+992,Matalom,44
+993,Mayorga,44
+994,Merida,44
+995,Ormoc City,44
+996,Palo,44
+997,Palompon,44
+998,Pastrana,44
+999,San Isidro,44
+1000,San Miguel,44
+1001,Santa Fe,44
+1002,Tabango,44
+1003,Tabontabon,44
+1004,Tacloban City (Capital),44
+1005,Tanauan,44
+1006,Tolosa,44
+1007,Tunga,44
+1008,Villaba,44
+1009,Allen,45
+1010,Biri,45
+1011,Bobon,45
+1012,Capul,45
+1013,Catarman (Capital),45
+1014,Catubig,45
+1015,Gamay,45
+1016,Laoang,45
+1017,Lapinig,45
+1018,Las Navas,45
+1019,Lavezares,45
+1020,Mapanas,45
+1021,Mondragon,45
+1022,Palapag,45
+1023,Pambujan,45
+1024,Rosario,45
+1025,San Antonio,45
+1026,San Isidro,45
+1027,San Jose,45
+1028,San Roque,45
+1029,San Vicente,45
+1030,Silvino Lobos,45
+1031,Victoria,45
+1032,Lope De Vega,45
+1033,Almagro,46
+1034,Basey,46
+1035,Calbayog City,46
+1036,Calbiga,46
+1037,City Of Catbalogan (Capital),46
+1038,Daram,46
+1039,Gandara,46
+1040,Hinabangan,46
+1041,Jiabong,46
+1042,Marabut,46
+1043,Matuguinao,46
+1044,Motiong,46
+1045,Pinabacdao,46
+1046,San Jose De Buan,46
+1047,San Sebastian,46
+1048,Santa Margarita,46
+1049,Santa Rita,46
+1050,Santo Niño,46
+1051,Talalora,46
+1052,Tarangnan,46
+1053,Villareal,46
+1054,Paranas (Wright),46
+1055,Zumarraga,46
+1056,Tagapul-an,46
+1057,San Jorge,46
+1058,Pagsanghan,46
+1059,Anahawan,47
+1060,Bontoc,47
+1061,Hinunangan,47
+1062,Hinundayan,47
+1063,Libagon,47
+1064,Liloan,47
+1065,City Of Maasin (Capital),47
+1066,Macrohon,47
+1067,Malitbog,47
+1068,Padre Burgos,47
+1069,Pintuyan,47
+1070,Saint Bernard,47
+1071,San Francisco,47
+1072,San Juan (Cabalian),47
+1073,San Ricardo,47
+1074,Silago,47
+1075,Sogod,47
+1076,Tomas Oppus,47
+1077,Limasawa,47
+1078,Almeria,48
+1079,Biliran,48
+1080,Cabucgayan,48
+1081,Caibiran,48
+1082,Culaba,48
+1083,Kawayan,48
+1084,Maripipi,48
+1085,Naval (Capital),48
+1086,Dapitan City,49
+1087,Dipolog City (Capital),49
+1088,Katipunan,49
+1089,La Libertad,49
+1090,Labason,49
+1091,Liloy,49
+1092,Manukan,49
+1093,Mutia,49
+1094,Piñan (New Piñan),49
+1095,Polanco,49
+1096,Pres. Manuel A. Roxas,49
+1097,Rizal,49
+1098,Salug,49
+1099,Sergio Osmeña Sr.,49
+1100,Siayan,49
+1101,Sibuco,49
+1102,Sibutad,49
+1103,Sindangan,49
+1104,Siocon,49
+1105,Sirawai,49
+1106,Tampilisan,49
+1107,Jose Dalman (Ponot),49
+1108,Gutalac,49
+1109,Baliguian,49
+1110,Godod,49
+1111,Bacungan (Leon T. Postigo),49
+1112,Kalawit,49
+1113,Aurora,50
+1114,Bayog,50
+1115,Dimataling,50
+1116,Dinas,50
+1117,Dumalinao,50
+1118,Dumingag,50
+1119,Kumalarang,50
+1120,Labangan,50
+1121,Lapuyan,50
+1122,Mahayag,50
+1123,Margosatubig,50
+1124,Midsalip,50
+1125,Molave,50
+1126,Pagadian City (Capital),50
+1127,Ramon Magsaysay (Liargo),50
+1128,San Miguel,50
+1129,San Pablo,50
+1130,Tabina,50
+1131,Tambulig,50
+1132,Tukuran,50
+1133,Zamboanga City,50
+1134,Lakewood,50
+1135,Josefina,50
+1136,Pitogo,50
+1137,Sominot (Don Mariano Marcos),50
+1138,Vincenzo A. Sagun,50
+1139,Guipos,50
+1140,Tigbao,50
+1141,Alicia,51
+1142,Buug,51
+1143,Diplahan,51
+1144,Imelda,51
+1145,Ipil (Capital),51
+1146,Kabasalan,51
+1147,Mabuhay,51
+1148,Malangas,51
+1149,Naga,51
+1150,Olutanga,51
+1151,Payao,51
+1152,Roseller Lim,51
+1153,Siay,51
+1154,Talusan,51
+1155,Titay,51
+1156,Tungawan,51
+1157,City Of Isabela,52
+1158,Baungon,53
+1159,Damulog,53
+1160,Dangcagan,53
+1161,Don Carlos,53
+1162,Impasug-ong,53
+1163,Kadingilan,53
+1164,Kalilangan,53
+1165,Kibawe,53
+1166,Kitaotao,53
+1167,Lantapan,53
+1168,Libona,53
+1169,City Of Malaybalay (Capital),53
+1170,Malitbog,53
+1171,Manolo Fortich,53
+1172,Maramag,53
+1173,Pangantucan,53
+1174,Quezon,53
+1175,San Fernando,53
+1176,Sumilao,53
+1177,Talakag,53
+1178,City Of Valencia,53
+1179,Cabanglasan,53
+1180,Catarman,54
+1181,Guinsiliban,54
+1182,Mahinog,54
+1183,Mambajao (Capital),54
+1184,Sagay,54
+1185,Bacolod,55
+1186,Baloi,55
+1187,Baroy,55
+1188,Iligan City,55
+1189,Kapatagan,55
+1190,Sultan Naga Dimaporo (Karomatan),55
+1191,Kauswagan,55
+1192,Kolambugan,55
+1193,Lala,55
+1194,Linamon,55
+1195,Magsaysay,55
+1196,Maigo,55
+1197,Matungao,55
+1198,Munai,55
+1199,Nunungan,55
+1200,Pantao Ragat,55
+1201,Poona Piagapo,55
+1202,Salvador,55
+1203,Sapad,55
+1204,Tagoloan,55
+1205,Tangcal,55
+1206,Tubod (Capital),55
+1207,Pantar,55
+1208,Aloran,56
+1209,Baliangao,56
+1210,Bonifacio,56
+1211,Calamba,56
+1212,Clarin,56
+1213,Concepcion,56
+1214,Jimenez,56
+1215,Lopez Jaena,56
+1216,Oroquieta City (Capital),56
+1217,Ozamis City,56
+1218,Panaon,56
+1219,Plaridel,56
+1220,Sapang Dalaga,56
+1221,Sinacaban,56
+1222,Tangub City,56
+1223,Tudela,56
+1224,Don Victoriano Chiongbian  (Don Mariano Marcos),56
+1225,Alubijid,57
+1226,Balingasag,57
+1227,Balingoan,57
+1228,Binuangan,57
+1229,Cagayan De Oro City (Capital),57
+1230,Claveria,57
+1231,City Of El Salvador,57
+1232,Gingoog City,57
+1233,Gitagum,57
+1234,Initao,57
+1235,Jasaan,57
+1236,Kinoguitan,57
+1237,Lagonglong,57
+1238,Laguindingan,57
+1239,Libertad,57
+1240,Lugait,57
+1241,Magsaysay (Linugos),57
+1242,Manticao,57
+1243,Medina,57
+1244,Naawan,57
+1245,Opol,57
+1246,Salay,57
+1247,Sugbongcogon,57
+1248,Tagoloan,57
+1249,Talisayan,57
+1250,Villanueva,57
+1251,Asuncion (Saug),58
+1252,Carmen,58
+1253,Kapalong,58
+1254,New Corella,58
+1255,City Of Panabo,58
+1256,Island Garden City Of Samal,58
+1257,Santo Tomas,58
+1258,City Of Tagum (Capital),58
+1259,Talaingod,58
+1260,Braulio E. Dujali,58
+1261,San Isidro,58
+1262,Bansalan,59
+1263,Davao City,59
+1264,City Of Digos (Capital),59
+1265,Hagonoy,59
+1266,Kiblawan,59
+1267,Magsaysay,59
+1268,Malalag,59
+1269,Matanao,59
+1270,Padada,59
+1271,Santa Cruz,59
+1272,Sulop,59
+1273,Baganga,60
+1274,Banaybanay,60
+1275,Boston,60
+1276,Caraga,60
+1277,Cateel,60
+1278,Governor Generoso,60
+1279,Lupon,60
+1280,Manay,60
+1281,City Of Mati (Capital),60
+1282,San Isidro,60
+1283,Tarragona,60
+1284,Compostela,61
+1285,Laak (San Vicente),61
+1286,Mabini (Doña Alicia),61
+1287,Maco,61
+1288,Maragusan (San Mariano),61
+1289,Mawab,61
+1290,Monkayo,61
+1291,Montevista,61
+1292,Nabunturan (Capital),61
+1293,New Bataan,61
+1294,Pantukan,61
+1295,Don Marcelino,62
+1296,Jose Abad Santos (Trinidad),62
+1297,Malita,62
+1298,Santa Maria,62
+1299,Sarangani,62
+1300,Alamada,63
+1301,Carmen,63
+1302,Kabacan,63
+1303,City Of Kidapawan (Capital),63
+1304,Libungan,63
+1305,Magpet,63
+1306,Makilala,63
+1307,Matalam,63
+1308,Midsayap,63
+1309,M'lang,63
+1310,Pigkawayan,63
+1311,Pikit,63
+1312,President Roxas,63
+1313,Tulunan,63
+1314,Antipas,63
+1315,Banisilan,63
+1316,Aleosan,63
+1317,Arakan,63
+1318,Banga,64
+1319,General Santos City (Dadiangas),64
+1320,City Of Koronadal (Capital),64
+1321,Norala,64
+1322,Polomolok,64
+1323,Surallah,64
+1324,Tampakan,64
+1325,Tantangan,64
+1326,T'boli,64
+1327,Tupi,64
+1328,Santo Niño,64
+1329,Lake Sebu,64
+1330,Bagumbayan,65
+1331,Columbio,65
+1332,Esperanza,65
+1333,Isulan (Capital),65
+1334,Kalamansig,65
+1335,Lebak,65
+1336,Lutayan,65
+1337,Lambayong (Mariano Marcos),65
+1338,Palimbang,65
+1339,President Quirino,65
+1340,City Of Tacurong,65
+1341,Sen. Ninoy Aquino,65
+1342,Alabel (Capital),66
+1343,Glan,66
+1344,Kiamba,66
+1345,Maasim,66
+1346,Maitum,66
+1347,Malapatan,66
+1348,Malungon,66
+1349,Cotabato City,67
+1350,Tondo I / Ii,68
+1351,Binondo,68
+1352,Quiapo,68
+1353,San Nicolas,68
+1354,Santa Cruz,68
+1355,Sampaloc,68
+1356,San Miguel,68
+1357,Ermita,68
+1358,Intramuros,68
+1359,Malate,68
+1360,Paco,68
+1361,Pandacan,68
+1362,Port Area,68
+1363,Santa Ana,68
+1364,City Of Mandaluyong,68
+1365,City Of Marikina,68
+1366,City Of Pasig,68
+1367,Quezon City,68
+1368,City Of San Juan,68
+1369,Caloocan City,68
+1370,City Of Malabon,68
+1371,City Of Navotas,68
+1372,City Of Valenzuela,68
+1373,City Of Las Piñas,68
+1374,City Of Makati,68
+1375,City Of Muntinlupa,68
+1376,City Of Parañaque,68
+1377,Pasay City,68
+1378,Pateros,68
+1379,Taguig City,68
+1380,Bangued (Capital),69
+1381,Boliney,69
+1382,Bucay,69
+1383,Bucloc,69
+1384,Daguioman,69
+1385,Danglas,69
+1386,Dolores,69
+1387,La Paz,69
+1388,Lacub,69
+1389,Lagangilang,69
+1390,Lagayan,69
+1391,Langiden,69
+1392,Licuan-baay (Licuan),69
+1393,Luba,69
+1394,Malibcong,69
+1395,Manabo,69
+1396,Peñarrubia,69
+1397,Pidigan,69
+1398,Pilar,69
+1399,Sallapadan,69
+1400,San Isidro,69
+1401,San Juan,69
+1402,San Quintin,69
+1403,Tayum,69
+1404,Tineg,69
+1405,Tubo,69
+1406,Villaviciosa,69
+1407,Atok,70
+1408,Baguio City,70
+1409,Bakun,70
+1410,Bokod,70
+1411,Buguias,70
+1412,Itogon,70
+1413,Kabayan,70
+1414,Kapangan,70
+1415,Kibungan,70
+1416,La Trinidad (Capital),70
+1417,Mankayan,70
+1418,Sablan,70
+1419,Tuba,70
+1420,Tublay,70
+1421,Banaue,71
+1422,Hungduan,71
+1423,Kiangan,71
+1424,Lagawe (Capital),71
+1425,Lamut,71
+1426,Mayoyao,71
+1427,Alfonso Lista (Potia),71
+1428,Aguinaldo,71
+1429,Hingyon,71
+1430,Tinoc,71
+1431,Asipulo,71
+1432,Balbalan,72
+1433,Lubuagan,72
+1434,Pasil,72
+1435,Pinukpuk,72
+1436,Rizal (Liwan),72
+1437,City Of Tabuk (Capital),72
+1438,Tanudan,72
+1439,Tinglayan,72
+1440,Barlig,73
+1441,Bauko,73
+1442,Besao,73
+1443,Bontoc (Capital),73
+1444,Natonin,73
+1445,Paracelis,73
+1446,Sabangan,73
+1447,Sadanga,73
+1448,Sagada,73
+1449,Tadian,73
+1450,Calanasan (Bayag),74
+1451,Conner,74
+1452,Flora,74
+1453,Kabugao (Capital),74
+1454,Luna,74
+1455,Pudtol,74
+1456,Santa Marcela,74
+1457,City Of Lamitan,75
+1458,Lantawan,75
+1459,Maluso,75
+1460,Sumisip,75
+1461,Tipo-tipo,75
+1462,Tuburan,75
+1463,Akbar,75
+1464,Al-barka,75
+1465,Hadji Mohammad Ajul,75
+1466,Ungkaya Pukan,75
+1467,Hadji Muhtamad,75
+1468,Tabuan-lasa,75
+1469,Bacolod-kalawi (Bacolod Grande),76
+1470,Balabagan,76
+1471,Balindong (Watu),76
+1472,Bayang,76
+1473,Binidayan,76
+1474,Bubong,76
+1475,Butig,76
+1476,Ganassi,76
+1477,Kapai,76
+1478,Lumba-bayabao (Maguing),76
+1479,Lumbatan,76
+1480,Madalum,76
+1481,Madamba,76
+1482,Malabang,76
+1483,Marantao,76
+1484,Marawi City (Capital),76
+1485,Masiu,76
+1486,Mulondo,76
+1487,Pagayawan (Tatarikan),76
+1488,Piagapo,76
+1489,Poona Bayabao (Gata),76
+1490,Pualas,76
+1491,Ditsaan-ramain,76
+1492,Saguiaran,76
+1493,Tamparan,76
+1494,Taraka,76
+1495,Tubaran,76
+1496,Tugaya,76
+1497,Wao,76
+1498,Marogong,76
+1499,Calanogas,76
+1500,Buadiposo-buntong,76
+1501,Maguing,76
+1502,Picong (Sultan Gumander),76
+1503,Lumbayanague,76
+1504,Bumbaran,76
+1505,Tagoloan Ii,76
+1506,Kapatagan,76
+1507,Sultan Dumalondong,76
+1508,Lumbaca-unayan,76
+1509,Ampatuan,77
+1510,Buldon,77
+1511,Buluan,77
+1512,Datu Paglas,77
+1513,Datu Piang,77
+1514,Datu Odin Sinsuat (Dinaig),77
+1515,Shariff Aguak (Maganoy) (Capital),77
+1516,Matanog,77
+1517,Pagalungan,77
+1518,Parang,77
+1519,Sultan Kudarat (Nuling),77
+1520,Sultan Sa Barongis (Lambayong),77
+1521,Kabuntalan (Tumbao),77
+1522,Upi,77
+1523,Talayan,77
+1524,South Upi,77
+1525,Barira,77
+1526,Gen. S. K. Pendatun,77
+1527,Mamasapano,77
+1528,Talitay,77
+1529,Pagagawan,77
+1530,Paglat,77
+1531,Sultan Mastura,77
+1532,Guindulungan,77
+1533,Datu Saudi-ampatuan,77
+1534,Datu Unsay,77
+1535,Datu Abdullah Sangki,77
+1536,Rajah Buayan,77
+1537,Datu Blah T. Sinsuat,77
+1538,Datu Anggal Midtimbang,77
+1539,Mangudadatu,77
+1540,Pandag,77
+1541,Northern Kabuntalan,77
+1542,Datu Hoffer Ampatuan,77
+1543,Datu Salibo,77
+1544,Shariff Saydona Mustapha,77
+1545,Indanan,78
+1546,Jolo (Capital),78
+1547,Kalingalan Caluang,78
+1548,Luuk,78
+1549,Maimbung,78
+1550,Hadji Panglima Tahil (Marunggas),78
+1551,Old Panamao,78
+1552,Pangutaran,78
+1553,Parang,78
+1554,Pata,78
+1555,Patikul,78
+1556,Siasi,78
+1557,Talipao,78
+1558,Tapul,78
+1559,Tongkil,78
+1560,Panglima Estino (New Panamao),78
+1561,Lugus,78
+1562,Pandami,78
+1563,Omar,78
+1564,Panglima Sugala (Balimbing),79
+1565,Bongao (Capital),79
+1566,Mapun (Cagayan De Tawi-tawi),79
+1567,Simunul,79
+1568,Sitangkai,79
+1569,South Ubian,79
+1570,Tandubas,79
+1571,Turtle Islands,79
+1572,Languyan,79
+1573,Sapa-sapa,79
+1574,Sibutu,79
+1575,Buenavista,80
+1576,Butuan City (Capital),80
+1577,City Of Cabadbaran,80
+1578,Carmen,80
+1579,Jabonga,80
+1580,Kitcharao,80
+1581,Las Nieves,80
+1582,Magallanes,80
+1583,Nasipit,80
+1584,Santiago,80
+1585,Tubay,80
+1586,Remedios T. Romualdez,80
+1587,City Of Bayugan,81
+1588,Bunawan,81
+1589,Esperanza,81
+1590,La Paz,81
+1591,Loreto,81
+1592,Prosperidad (Capital),81
+1593,Rosario,81
+1594,San Francisco,81
+1595,San Luis,81
+1596,Santa Josefa,81
+1597,Talacogon,81
+1598,Trento,81
+1599,Veruela,81
+1600,Sibagat,81
+1601,Alegria,82
+1602,Bacuag,82
+1603,Burgos,82
+1604,Claver,82
+1605,Dapa,82
+1606,Del Carmen,82
+1607,General Luna,82
+1608,Gigaquit,82
+1609,Mainit,82
+1610,Malimono,82
+1611,Pilar,82
+1612,Placer,82
+1613,San Benito,82
+1614,San Francisco (Anao-aon),82
+1615,San Isidro,82
+1616,Santa Monica (Sapao),82
+1617,Sison,82
+1618,Socorro,82
+1619,Surigao City (Capital),82
+1620,Tagana-an,82
+1621,Tubod,82
+1622,Barobo,83
+1623,Bayabas,83
+1624,City Of Bislig,83
+1625,Cagwait,83
+1626,Cantilan,83
+1627,Carmen,83
+1628,Carrascal,83
+1629,Cortes,83
+1630,Hinatuan,83
+1631,Lanuza,83
+1632,Lianga,83
+1633,Lingig,83
+1634,Madrid,83
+1635,Marihatag,83
+1636,San Agustin,83
+1637,San Miguel,83
+1638,Tagbina,83
+1639,Tago,83
+1640,City Of Tandag (Capital),83
+1641,Basilisa (Rizal),84
+1642,Cagdianao,84
+1643,Dinagat,84
+1644,Libjo (Albor),84
+1645,Loreto,84
+1646,San Jose (Capital),84
+1647,Tubajon,84

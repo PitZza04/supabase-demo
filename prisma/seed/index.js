@@ -1,37 +1,30 @@
-const data = require("./data/brands.json");
-const { PrismaClient } = require("@prisma/client");
+import { PrismaClient } from "@prisma/client";
+import { seed as brandSeed } from "./brand.js";
+import { addressSeed } from "./address.js";
 const prisma = new PrismaClient();
-
-// data.map((brand) => {
-//   console.log(brand.make);
-// });
-
-const main = async () => {
-  await prisma.$executeRawUnsafe(`TRUNCATE TABLE "Brand" CASCADE;`);
-  for (const brand of data) {
-    await prisma.Brand.create({
-      data: {
-        name: brand.name,
-        img_url: brand.img_url,
-        model: {
-          createMany: {
-            data: brand.Model.map((model) => ({
-              name: model.name,
-              img_url: model.img_url,
-            })),
-          },
-        },
-      },
-    });
+async function main() {
+  let exitStatus = 0;
+  try {
+    //await Promise.all(addressSeed(prisma));
+    await addressSeed(prisma);
+    await brandSeed(prisma);
+  } catch (error) {
+    console.error(error);
+    exitStatus = 1;
+  } finally {
+    await prisma.$disconnect();
+    process.exit(exitStatus);
   }
-};
+}
 
-main()
-  .then(async () => {
-    await prisma.$disconnect();
-  })
-  .catch(async (e) => {
-    console.error(e);
-    await prisma.$disconnect();
-    process.exit(1);
-  });
+main();
+
+// main()
+//   .then(async () => {
+//     await prisma.$disconnect();
+//   })
+//   .catch(async (e) => {
+//     console.error(e);
+//     await prisma.$disconnect();
+//     process.exit(1);
+//   });

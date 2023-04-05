@@ -8,7 +8,7 @@ const ModelScreen = ({ route, navigation }) => {
     data: model,
     error: errorModel,
     isLoading,
-  } = useSupabaseJoinSWR("Brand/Model/" + id, {
+  } = useSupabaseJoinSWR("brand/model/" + id, {
     revalidateOnFocus: false,
     revalidateOnReconnect: false,
     revalidateIfStale: false,

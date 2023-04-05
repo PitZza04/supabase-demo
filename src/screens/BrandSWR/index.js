@@ -13,18 +13,7 @@ const BrandScreen = () => {
   const [brand, setBrand] = useState(null);
   const [loading, setLoading] = useState(true);
   const user = useSelector((state) => state.auth.user);
-  // useEffect(() => {
-  //   async function getBrands() {
-  //     const { data: brand, error } = await supabase.from("Brand").select("*");
-  //     const { data: allBrands, error: errorModel } = await supabase
-  //       .from("Brand")
-  //       .select("name, id, Model (name, brand_id)");
-  //     console.log(JSON.stringify(allBrands[0].name));
-  //     setBrand(brand);
-  //     setLoading(false);
-  //   }
-  //   getBrands();
-  // }, []);
+
   const handleSignOut = async () => {
     console.log("sign out");
     const { error } = await supabase.auth.signOut();

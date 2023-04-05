@@ -1,0 +1,27 @@
+[
+  { "id": 1, "region_name": "Ilocos Region", "region_code": "Region I" },
+  { "id": 2, "region_name": "Cagayan Valley", "region_code": "Region II" },
+  { "id": 3, "region_name": "Central Luzon", "region_code": "Region III" },
+  { "id": 4, "region_name": "CALABARZON", "region_code": "Region IV-A" },
+  { "id": 17, "region_name": "MIMAROPA", "region_code": "Region IV-B" },
+  { "id": 5, "region_name": "Bicol Region", "region_code": "Region V" },
+  { "id": 6, "region_name": "Western Visayas", "region_code": "Region VI" },
+  { "id": 7, "region_name": "Central Visayas", "region_code": "Region VII" },
+  { "id": 8, "region_name": "Eastern Visayas", "region_code": "Region VIII" },
+  { "id": 9, "region_name": "Zamboanga Peninzula", "region_code": "Region IX" },
+  { "id": 10, "region_name": "Northern Mindanao", "region_code": "Region X" },
+  { "id": 11, "region_name": "Davao Region", "region_code": "Region XI" },
+  { "id": 12, "region_name": "SOCCSKSARGEN", "region_code": "Region XII" },
+  { "id": 13, "region_name": "National Capital Region", "region_code": "NCR" },
+  {
+    "id": 14,
+    "region_name": "Cordillera Administrative Region",
+    "region_code": "CAR"
+  },
+  {
+    "id": 15,
+    "region_name": "Autonomous Region in Muslim Mindanao",
+    "region_code": "ARMM"
+  },
+  { "id": 16, "region_name": "Caraga", "region_code": "Region XIII " }
+]

@@ -6,25 +6,23 @@ CREATE TYPE "status" AS ENUM ('active', 'inactive', 'deleted');
 
 -- CreateTable
 CREATE TABLE "Address" (
-    "id" UUID NOT NULL,
+    "id" SERIAL NOT NULL,
     "created_at" TIMESTAMPTZ(6) DEFAULT CURRENT_TIMESTAMP,
-    "street_address_1" TEXT NOT NULL,
-    "street_address_2" TEXT NOT NULL,
-    "region_id" UUID NOT NULL,
-    "province_id" UUID NOT NULL,
-    "city_id" UUID NOT NULL,
-    "brgy_id" UUID NOT NULL,
+    "province_id" INTEGER NOT NULL,
+    "city_id" INTEGER NOT NULL,
+    "brgy_id" INTEGER NOT NULL,
     "updated_at" TIMESTAMPTZ(6),
+    "street_address" TEXT NOT NULL,
+    "region_id" INTEGER NOT NULL,
 
     CONSTRAINT "Address_pkey" PRIMARY KEY ("id")
 );
 
 -- CreateTable
 CREATE TABLE "Barangay" (
-    "id" UUID NOT NULL,
-    "created_at" TIMESTAMPTZ(6) DEFAULT CURRENT_TIMESTAMP,
-    "updated_at" TIMESTAMPTZ(6),
-    "city_id" UUID NOT NULL,
+    "id" SERIAL NOT NULL,
+    "brgy_name" TEXT NOT NULL,
+    "city_id" INTEGER NOT NULL,
 
     CONSTRAINT "Barangay_pkey" PRIMARY KEY ("id")
 );
@@ -42,11 +40,9 @@ CREATE TABLE "Brand" (
 
 -- CreateTable
 CREATE TABLE "City" (
-    "id" UUID NOT NULL,
-    "created_at" TIMESTAMPTZ(6) DEFAULT CURRENT_TIMESTAMP,
-    "updated_at" TIMESTAMPTZ(6),
+    "id" SERIAL NOT NULL,
     "city_name" TEXT NOT NULL,
-    "province_id" UUID NOT NULL,
+    "province_id" INTEGER NOT NULL,
 
     CONSTRAINT "City_pkey" PRIMARY KEY ("id")
 );
@@ -93,21 +89,18 @@ CREATE TABLE "Product" (
 
 -- CreateTable
 CREATE TABLE "Province" (
-    "id" UUID NOT NULL,
-    "created_at" TIMESTAMPTZ(6) DEFAULT CURRENT_TIMESTAMP,
+    "id" SERIAL NOT NULL,
     "province_name" TEXT,
-    "updated_at" TIMESTAMPTZ(6),
-    "region_id" UUID NOT NULL,
+    "region_id" INTEGER NOT NULL,
 
     CONSTRAINT "Province_pkey" PRIMARY KEY ("id")
 );
 
 -- CreateTable
 CREATE TABLE "Region" (
-    "id" UUID NOT NULL,
-    "created_at" TIMESTAMPTZ(6) DEFAULT CURRENT_TIMESTAMP,
-    "updated_at" TIMESTAMPTZ(6),
+    "id" SERIAL NOT NULL,
     "region_name" TEXT NOT NULL,
+    "region_code" TEXT NOT NULL,
 
     CONSTRAINT "Region_pkey" PRIMARY KEY ("id")
 );
@@ -140,9 +133,10 @@ CREATE TABLE "User_profile" (
     "updated_at" TIMESTAMPTZ(6),
     "metadata" JSONB DEFAULT '{"birth": "", "fname": "", "lname": "", "mname": "", "gender": ""}',
     "avatar_url" TEXT,
-    "address_id" UUID NOT NULL,
-    "driver_license_id" UUID NOT NULL,
+    "address_id" INTEGER NOT NULL,
+    "driver_license_id" UUID,
     "gender" "gender",
+    "email" TEXT,
 
     CONSTRAINT "profiles_pkey" PRIMARY KEY ("id")
 );
@@ -164,7 +158,7 @@ CREATE TABLE "Vehicle" (
 );
 
 -- CreateIndex
-CREATE UNIQUE INDEX "Region_id_key" ON "Region"("id");
+CREATE UNIQUE INDEX "User_profile_email_key" ON "User_profile"("email");
 
 -- AddForeignKey
 ALTER TABLE "Address" ADD CONSTRAINT "Address_brgy_id_fkey" FOREIGN KEY ("brgy_id") REFERENCES "Barangay"("id") ON DELETE NO ACTION ON UPDATE NO ACTION;
@@ -179,10 +173,10 @@ ALTER TABLE "Address" ADD CONSTRAINT "Address_province_id_fkey" FOREIGN KEY ("pr
 ALTER TABLE "Address" ADD CONSTRAINT "Address_region_id_fkey" FOREIGN KEY ("region_id") REFERENCES "Region"("id") ON DELETE NO ACTION ON UPDATE NO ACTION;
 
 -- AddForeignKey
-ALTER TABLE "Barangay" ADD CONSTRAINT "Barangay_city_id_fkey" FOREIGN KEY ("city_id") REFERENCES "City"("id") ON DELETE NO ACTION ON UPDATE NO ACTION;
+ALTER TABLE "Barangay" ADD CONSTRAINT "Barangay_city_id_fkey" FOREIGN KEY ("city_id") REFERENCES "City"("id") ON DELETE CASCADE ON UPDATE NO ACTION;
 
 -- AddForeignKey
-ALTER TABLE "City" ADD CONSTRAINT "City_province_id_fkey" FOREIGN KEY ("province_id") REFERENCES "Province"("id") ON DELETE NO ACTION ON UPDATE NO ACTION;
+ALTER TABLE "City" ADD CONSTRAINT "City_province_id_fkey" FOREIGN KEY ("province_id") REFERENCES "Province"("id") ON DELETE CASCADE ON UPDATE NO ACTION;
 
 -- AddForeignKey
 ALTER TABLE "Model" ADD CONSTRAINT "Model_brand_id_fkey" FOREIGN KEY ("brand_id") REFERENCES "Brand"("id") ON DELETE NO ACTION ON UPDATE NO ACTION;
@@ -194,7 +188,7 @@ ALTER TABLE "Product" ADD CONSTRAINT "Product_services_category_id_fkey" FOREIGN
 ALTER TABLE "Product" ADD CONSTRAINT "Product_services_type_id_fkey" FOREIGN KEY ("services_type_id") REFERENCES "Services_type"("id") ON DELETE NO ACTION ON UPDATE NO ACTION;
 
 -- AddForeignKey
-ALTER TABLE "Province" ADD CONSTRAINT "Province_region_id_fkey" FOREIGN KEY ("region_id") REFERENCES "Region"("id") ON DELETE NO ACTION ON UPDATE NO ACTION;
+ALTER TABLE "Province" ADD CONSTRAINT "Province_region_id_fkey" FOREIGN KEY ("region_id") REFERENCES "Region"("id") ON DELETE CASCADE ON UPDATE NO ACTION;
 
 -- AddForeignKey
 ALTER TABLE "Services_category" ADD CONSTRAINT "Services_category_services_type_id_fkey" FOREIGN KEY ("services_type_id") REFERENCES "Services_type"("id") ON DELETE NO ACTION ON UPDATE NO ACTION;

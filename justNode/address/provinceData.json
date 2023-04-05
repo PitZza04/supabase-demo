@@ -1,0 +1,8 @@
+[
+  { "id": 33, "province_name": "Aklan", "region_id": 6 },
+  { "id": 34, "province_name": "Antique", "region_id": 6 },
+  { "id": 35, "province_name": "Capiz", "region_id": 6 },
+  { "id": 36, "province_name": "Iloilo", "region_id": 6 },
+  { "id": 37, "province_name": "Negros Occidental", "region_id": 6 },
+  { "id": 38, "province_name": "Guimaras", "region_id": 6 }
+]

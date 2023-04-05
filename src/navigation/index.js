@@ -17,7 +17,6 @@ export default function RootNavigation() {
 
     const { data: authListener } = supabase.auth.onAuthStateChange(
       (_event, session) => {
-        //console.log("from navigation", session);
         if (_event === "SIGNED_OUT") {
           dispatch(setSignOut());
         }
@@ -27,21 +26,22 @@ export default function RootNavigation() {
     return () => {
       authListener.subscription.unsubscribe();
     };
-    // if (session) {
-    //   dispatch(setSignIn(session));
-    // }
-    // const fetchSession = async () => {
-    //   const value = await AsyncStorage.getItem(
-    //     "sb-tpbrgzfczohtyssijgxb-auth-token"
-    //   );
-    //   if (value) {
-    //     dispatch(setSignIn(value));
-    //   } else {
-    //   }
-    // };
-    // fetchSession();
-    //dispatch(authListener());
   }, []);
 
   return auth ? <MainStack /> : <AuthStack />;
 }
+
+// if (session) {
+//   dispatch(setSignIn(session));
+// }
+// const fetchSession = async () => {
+//   const value = await AsyncStorage.getItem(
+//     "sb-tpbrgzfczohtyssijgxb-auth-token"
+//   );
+//   if (value) {
+//     dispatch(setSignIn(value));
+//   } else {
+//   }
+// };
+// fetchSession();
+//dispatch(authListener());

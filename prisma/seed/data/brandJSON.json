@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "chevrolet",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/brands/chevrolet.png"
+  },
+  {
+    "id": 2,
+    "name": "ford",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/brands/ford.png"
+  },
+  {
+    "id": 3,
+    "name": "foton",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/brands/foton.png"
+  },
+  {
+    "id": 4,
+    "name": "hino",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/brands/hino.png"
+  },
+  {
+    "id": 5,
+    "name": "honda",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/brands/honda.png"
+  },
+  {
+    "id": 6,
+    "name": "hyundai",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/brands/hyundai.png"
+  },
+  {
+    "id": 7,
+    "name": "isuzu",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/brands/isuzu.png"
+  },
+  {
+    "id": 8,
+    "name": "jeep",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/brands/jeep.png"
+  },
+  {
+    "id": 9,
+    "name": "kia",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/brands/kia.png"
+  },
+  {
+    "id": 10,
+    "name": "mazda",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/brands/mazda.png"
+  },
+  {
+    "id": 11,
+    "name": "mercedez bench",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/brands/mercedez bench.png"
+  },
+  {
+    "id": 12,
+    "name": "mitsubishi",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/brands/mitsubishi.png"
+  },
+  {
+    "id": 13,
+    "name": "nissan",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/brands/nissan.png"
+  },
+  {
+    "id": 14,
+    "name": "peugeot",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/brands/peugeot.png"
+  },
+  {
+    "id": 15,
+    "name": "subaru",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/brands/subaru.png"
+  },
+  {
+    "id": 16,
+    "name": "suzuki",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/brands/suzuki.png"
+  },
+  {
+    "id": 17,
+    "name": "toyota",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/brands/toyota.png"
+  },
+  {
+    "id": 18,
+    "name": "volkswagen",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/brands/volkswagen.png"
+  }
+]

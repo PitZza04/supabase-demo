@@ -17,6 +17,10 @@
   },
   "dependencies": {
     "@supabase/storage-js": "^2.3.1",
-    "@supabase/supabase-js": "^2.12.0"
+    "@supabase/supabase-js": "^2.12.0",
+    "axios": "^1.3.4",
+    "csv-parser": "^3.0.0",
+    "fs": "^0.0.1-security",
+    "phil-reg-prov-mun-brgy": "^1.1.0"
   }
 }

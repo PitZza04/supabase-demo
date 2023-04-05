@@ -1,5 +1,5 @@
 import { createAsyncThunk, createSlice } from "@reduxjs/toolkit";
-import { supabase, getSession } from "../../config/initSupabase";
+import { supabase } from "../../config/initSupabase";
 
 const initialState = {
   isSignedIn: false,
@@ -12,6 +12,20 @@ export const authSignIn = createAsyncThunk(
   async (data, { dispatch, rejectWithValue }) => {
     try {
       const { data: user } = await supabase.auth.signInWithPassword({
+        email: data.email,
+        password: data.password,
+      });
+      return user;
+    } catch (error) {
+      return rejectWithValue(error);
+    }
+  }
+);
+export const authSignUp = createAsyncThunk(
+  "user/authSignUp",
+  async (data, { dispatch, rejectWithValue }) => {
+    try {
+      const { data: user } = await supabase.auth.signUp({
         email: data.email,
         password: data.password,
       });
@@ -73,6 +87,17 @@ const authSlice = createSlice({
     builder.addCase(authSignIn.rejected, (state, action) => {
       state.isLoading = false;
       state.error = action.payload;
+    });
+    builder.addCase(authSignUp.rejected, (state, action) => {
+      state.isLoading = false;
+      state.error = action.payload;
+    });
+    builder.addCase(authSignUp.pending, (state, action) => {
+      state.isLoading = true;
+    });
+    builder.addCase(authSignUp.fulfilled, (state, action) => {
+      state.isLoading = false;
+      state.user = action.payload;
     });
   },
 });

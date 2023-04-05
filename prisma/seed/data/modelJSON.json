@@ -1,0 +1,1958 @@
+[
+  {
+    "name": "Blazer",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/chevrolet/Blazer.png",
+    "id": 1,
+    "brand_id": 1
+  },
+  {
+    "name": "Traverse",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/chevrolet/Traverse.png",
+    "id": 2,
+    "brand_id": 1
+  },
+  {
+    "name": "Corvette",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/chevrolet/Corvette.png",
+    "id": 3,
+    "brand_id": 1
+  },
+  {
+    "name": "Impala",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/chevrolet/Impala.png",
+    "id": 4,
+    "brand_id": 1
+  },
+  {
+    "name": "Malibu",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/chevrolet/Malibu.png",
+    "id": 5,
+    "brand_id": 1
+  },
+  {
+    "name": "Bolt Evolution",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/chevrolet/Bolt%20Evolution.png",
+    "id": 6,
+    "brand_id": 1
+  },
+  {
+    "name": "Tahoe",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/chevrolet/Tahoe.png",
+    "id": 7,
+    "brand_id": 1
+  },
+  {
+    "name": "Captiva",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/chevrolet/Captiva.png",
+    "id": 8,
+    "brand_id": 1
+  },
+  {
+    "name": "Silverado",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/chevrolet/Silverado.png",
+    "id": 9,
+    "brand_id": 1
+  },
+  {
+    "name": "Equinox",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/chevrolet/Equinox.png",
+    "id": 10,
+    "brand_id": 1
+  },
+  {
+    "name": "Silverado 1500",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/chevrolet/Silverado%201500.png",
+    "id": 11,
+    "brand_id": 1
+  },
+  {
+    "name": "Cruze",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/chevrolet/Cruze.png",
+    "id": 12,
+    "brand_id": 1
+  },
+  {
+    "name": "Trailblaizer",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/chevrolet/Trailblaizer.png",
+    "id": 13,
+    "brand_id": 1
+  },
+  {
+    "name": "Colorado",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/chevrolet/Colorado.png",
+    "id": 14,
+    "brand_id": 1
+  },
+  {
+    "name": "Camaro",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/chevrolet/Camaro.png",
+    "id": 15,
+    "brand_id": 1
+  },
+  {
+    "name": "Suburban",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/chevrolet/Suburban.png",
+    "id": 16,
+    "brand_id": 1
+  },
+  {
+    "name": "Aveo",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/chevrolet/Aveo.png",
+    "id": 17,
+    "brand_id": 1
+  },
+  {
+    "name": "Volt",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/chevrolet/Volt.png",
+    "id": 18,
+    "brand_id": 1
+  },
+  {
+    "name": "Spark",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/chevrolet/Spark.png",
+    "id": 19,
+    "brand_id": 1
+  },
+  {
+    "name": "Sonic",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/chevrolet/Sonic.png",
+    "id": 20,
+    "brand_id": 1
+  },
+  {
+    "name": "Trax",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/chevrolet/Trax.png",
+    "id": 21,
+    "brand_id": 1
+  },
+  {
+    "name": "Silverado 2500",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/chevrolet/Silverado%202500.png",
+    "id": 22,
+    "brand_id": 1
+  },
+  {
+    "name": "Malibu Maxx",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/chevrolet/Malibu%20Maxx.png",
+    "id": 23,
+    "brand_id": 1
+  },
+  {
+    "name": "Fiesta",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/ford/Fiesta.png",
+    "id": 24,
+    "brand_id": 2
+  },
+  {
+    "name": "Trekker",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/ford/Trekker.png",
+    "id": 25,
+    "brand_id": 2
+  },
+  {
+    "name": "Escape",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/ford/Escape.png",
+    "id": 26,
+    "brand_id": 2
+  },
+  {
+    "name": "Everest",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/ford/Everest.png",
+    "id": 27,
+    "brand_id": 2
+  },
+  {
+    "name": "Raptor",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/ford/Raptor.png",
+    "id": 28,
+    "brand_id": 2
+  },
+  {
+    "name": "Focus",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/ford/Focus.png",
+    "id": 29,
+    "brand_id": 2
+  },
+  {
+    "name": "Expedition",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/ford/Expedition.png",
+    "id": 30,
+    "brand_id": 2
+  },
+  {
+    "name": "Bronco",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/ford/Bronco.png",
+    "id": 31,
+    "brand_id": 2
+  },
+  {
+    "name": "C - Max",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/ford/C%20-%20Max.png",
+    "id": 32,
+    "brand_id": 2
+  },
+  {
+    "name": "Echo Sport",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/ford/Echo%20Sport.png",
+    "id": 33,
+    "brand_id": 2
+  },
+  {
+    "name": "GT",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/ford/GT.png",
+    "id": 34,
+    "brand_id": 2
+  },
+  {
+    "name": "Maverick",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/ford/Maverick.png",
+    "id": 35,
+    "brand_id": 2
+  },
+  {
+    "name": "Endeavour",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/ford/Endeavour.png",
+    "id": 36,
+    "brand_id": 2
+  },
+  {
+    "name": "Figo",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/ford/Figo.png",
+    "id": 37,
+    "brand_id": 2
+  },
+  {
+    "name": "Aspire",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/ford/Aspire.png",
+    "id": 38,
+    "brand_id": 2
+  },
+  {
+    "name": "Edge",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/ford/Edge.png",
+    "id": 39,
+    "brand_id": 2
+  },
+  {
+    "name": "Fussion",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/ford/Fussion.png",
+    "id": 40,
+    "brand_id": 2
+  },
+  {
+    "name": "Mondeo",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/ford/Mondeo.png",
+    "id": 41,
+    "brand_id": 2
+  },
+  {
+    "name": "Kuga",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/ford/Kuga.png",
+    "id": 42,
+    "brand_id": 2
+  },
+  {
+    "name": "F -150",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/ford/F%20-150.png",
+    "id": 43,
+    "brand_id": 2
+  },
+  {
+    "name": "Range",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/ford/Range.png",
+    "id": 44,
+    "brand_id": 2
+  },
+  {
+    "name": "Explorer",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/ford/Explorer.png",
+    "id": 45,
+    "brand_id": 2
+  },
+  {
+    "name": "Taurus",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/ford/Taurus.png",
+    "id": 46,
+    "brand_id": 2
+  },
+  {
+    "name": "Flex",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/ford/Flex.png",
+    "id": 47,
+    "brand_id": 2
+  },
+  {
+    "name": "Territory",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/ford/Territory.png",
+    "id": 48,
+    "brand_id": 2
+  },
+  {
+    "name": "Mustang",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/ford/Mustang.png",
+    "id": 49,
+    "brand_id": 2
+  },
+  {
+    "name": "PUMA",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/ford/PUMA.png",
+    "id": 50,
+    "brand_id": 2
+  },
+  {
+    "name": "S - Max",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/ford/S%20-%20Max.png",
+    "id": 51,
+    "brand_id": 2
+  },
+  {
+    "name": "Transvan",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/foton/Transvan.png",
+    "id": 52,
+    "brand_id": 3
+  },
+  {
+    "name": "Harabas TM300",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/foton/Harabas%20TM300.png",
+    "id": 53,
+    "brand_id": 3
+  },
+  {
+    "name": "Toano",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/foton/Toano.png",
+    "id": 54,
+    "brand_id": 3
+  },
+  {
+    "name": "Traveller",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/foton/Traveller.png",
+    "id": 55,
+    "brand_id": 3
+  },
+  {
+    "name": "Gratour",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/foton/Gratour.png",
+    "id": 56,
+    "brand_id": 3
+  },
+  {
+    "name": "Tornado",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/foton/Tornado.png",
+    "id": 57,
+    "brand_id": 3
+  },
+  {
+    "name": "Toplander",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/foton/Toplander.png",
+    "id": 58,
+    "brand_id": 3
+  },
+  {
+    "name": "Sauvana",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/foton/Sauvana.png",
+    "id": 59,
+    "brand_id": 3
+  },
+  {
+    "name": "Tunland",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/foton/Tunland.png",
+    "id": 60,
+    "brand_id": 3
+  },
+  {
+    "name": "Foton Gratour IX",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/foton/Foton%20Gratour%20IX.png",
+    "id": 61,
+    "brand_id": 3
+  },
+  {
+    "name": "Gratour MVP",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/foton/Gratour%20MVP.png",
+    "id": 62,
+    "brand_id": 3
+  },
+  {
+    "name": "SUP",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/foton/SUP.png",
+    "id": 63,
+    "brand_id": 3
+  },
+  {
+    "name": "Auman",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/foton/Auman.png",
+    "id": 64,
+    "brand_id": 3
+  },
+  {
+    "name": "Thunder",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/foton/Thunder.png",
+    "id": 65,
+    "brand_id": 3
+  },
+  {
+    "name": "City ZX",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/honda/City%20ZX.png",
+    "id": 66,
+    "brand_id": 5
+  },
+  {
+    "name": "Redgeline",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/honda/Redgeline.png",
+    "id": 67,
+    "brand_id": 5
+  },
+  {
+    "name": "Jazz",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/honda/Jazz.png",
+    "id": 68,
+    "brand_id": 5
+  },
+  {
+    "name": "WRV",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/honda/WRV.png",
+    "id": 69,
+    "brand_id": 5
+  },
+  {
+    "name": "Passport",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/honda/Passport.png",
+    "id": 70,
+    "brand_id": 5
+  },
+  {
+    "name": "City CNG",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/honda/City%20CNG.png",
+    "id": 71,
+    "brand_id": 5
+  },
+  {
+    "name": "Insight",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/honda/Insight.png",
+    "id": 72,
+    "brand_id": 5
+  },
+  {
+    "name": "Stream",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/honda/Stream.png",
+    "id": 73,
+    "brand_id": 5
+  },
+  {
+    "name": "CRZ",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/honda/CRZ.png",
+    "id": 74,
+    "brand_id": 5
+  },
+  {
+    "name": "Crosstour",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/honda/Crosstour.png",
+    "id": 75,
+    "brand_id": 5
+  },
+  {
+    "name": "Amaze",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/honda/Amaze.png",
+    "id": 76,
+    "brand_id": 5
+  },
+  {
+    "name": "BRV",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/honda/BRV.png",
+    "id": 77,
+    "brand_id": 5
+  },
+  {
+    "name": "Element",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/honda/Element.png",
+    "id": 78,
+    "brand_id": 5
+  },
+  {
+    "name": "Accord Hybrid",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/honda/Accord%20Hybrid.png",
+    "id": 79,
+    "brand_id": 5
+  },
+  {
+    "name": "Fit",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/honda/Fit.png",
+    "id": 80,
+    "brand_id": 5
+  },
+  {
+    "name": "City IDTEC",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/honda/City%20IDTEC.png",
+    "id": 81,
+    "brand_id": 5
+  },
+  {
+    "name": "HRV",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/honda/HRV.png",
+    "id": 82,
+    "brand_id": 5
+  },
+  {
+    "name": "Accord",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/honda/Accord.png",
+    "id": 83,
+    "brand_id": 5
+  },
+  {
+    "name": "Pilot",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/honda/Pilot.png",
+    "id": 84,
+    "brand_id": 5
+  },
+  {
+    "name": "City",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/honda/City.png",
+    "id": 85,
+    "brand_id": 5
+  },
+  {
+    "name": "Brio",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/honda/Brio.png",
+    "id": 86,
+    "brand_id": 5
+  },
+  {
+    "name": "Odessy",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/honda/Odessy.png",
+    "id": 87,
+    "brand_id": 5
+  },
+  {
+    "name": "Civic",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/honda/Civic.png",
+    "id": 88,
+    "brand_id": 5
+  },
+  {
+    "name": "Mobilio",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/honda/Mobilio.png",
+    "id": 89,
+    "brand_id": 5
+  },
+  {
+    "name": "Clarity",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/honda/Clarity.png",
+    "id": 90,
+    "brand_id": 5
+  },
+  {
+    "name": "CRV",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/honda/CRV.png",
+    "id": 91,
+    "brand_id": 5
+  },
+  {
+    "name": "Ioniq",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/hyundai/Ioniq.png",
+    "id": 92,
+    "brand_id": 6
+  },
+  {
+    "name": "Starea",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/hyundai/Starea.png",
+    "id": 93,
+    "brand_id": 6
+  },
+  {
+    "name": "Venue",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/hyundai/Venue.png",
+    "id": 94,
+    "brand_id": 6
+  },
+  {
+    "name": "I30",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/hyundai/I30.png",
+    "id": 95,
+    "brand_id": 6
+  },
+  {
+    "name": "Santro",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/hyundai/Santro.png",
+    "id": 96,
+    "brand_id": 6
+  },
+  {
+    "name": "Sonata",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/hyundai/Sonata.png",
+    "id": 97,
+    "brand_id": 6
+  },
+  {
+    "name": "Creta",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/hyundai/Creta.png",
+    "id": 98,
+    "brand_id": 6
+  },
+  {
+    "name": "Verna",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/hyundai/Verna.png",
+    "id": 99,
+    "brand_id": 6
+  },
+  {
+    "name": "Genesis",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/hyundai/Genesis.png",
+    "id": 100,
+    "brand_id": 6
+  },
+  {
+    "name": "I20",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/hyundai/I20.png",
+    "id": 101,
+    "brand_id": 6
+  },
+  {
+    "name": "Aura",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/hyundai/Aura.png",
+    "id": 102,
+    "brand_id": 6
+  },
+  {
+    "name": "Nexo",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/hyundai/Nexo.png",
+    "id": 103,
+    "brand_id": 6
+  },
+  {
+    "name": "Santafe",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/hyundai/Santafe.png",
+    "id": 104,
+    "brand_id": 6
+  },
+  {
+    "name": "Elantra",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/hyundai/Elantra.png",
+    "id": 105,
+    "brand_id": 6
+  },
+  {
+    "name": "IONIQ5 1",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/hyundai/IONIQ5%201.png",
+    "id": 106,
+    "brand_id": 6
+  },
+  {
+    "name": "Getz",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/hyundai/Getz.png",
+    "id": 107,
+    "brand_id": 6
+  },
+  {
+    "name": "Porter II",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/hyundai/Porter%20II.png",
+    "id": 108,
+    "brand_id": 6
+  },
+  {
+    "name": "Kona",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/hyundai/Kona.png",
+    "id": 109,
+    "brand_id": 6
+  },
+  {
+    "name": "Ioniq 5",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/hyundai/Ioniq%205.png",
+    "id": 110,
+    "brand_id": 6
+  },
+  {
+    "name": "Palisade",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/hyundai/Palisade.png",
+    "id": 111,
+    "brand_id": 6
+  },
+  {
+    "name": "I10",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/hyundai/I10.png",
+    "id": 112,
+    "brand_id": 6
+  },
+  {
+    "name": "Tucson",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/hyundai/Tucson.png",
+    "id": 113,
+    "brand_id": 6
+  },
+  {
+    "name": "H100",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/hyundai/H100.png",
+    "id": 114,
+    "brand_id": 6
+  },
+  {
+    "name": "Grandeur",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/hyundai/Grandeur.png",
+    "id": 115,
+    "brand_id": 6
+  },
+  {
+    "name": "Accent",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/hyundai/Accent.png",
+    "id": 116,
+    "brand_id": 6
+  },
+  {
+    "name": "Elf Truck",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/isuzu/Elf%20Truck.png",
+    "id": 117,
+    "brand_id": 7
+  },
+  {
+    "name": "Faster",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/isuzu/Faster.png",
+    "id": 118,
+    "brand_id": 7
+  },
+  {
+    "name": "MU - X",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/isuzu/MU%20-%20X.png",
+    "id": 119,
+    "brand_id": 7
+  },
+  {
+    "name": "FRR",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/isuzu/FRR.png",
+    "id": 120,
+    "brand_id": 7
+  },
+  {
+    "name": "Hombre",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/isuzu/Hombre.png",
+    "id": 121,
+    "brand_id": 7
+  },
+  {
+    "name": "NCR",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/isuzu/NCR.png",
+    "id": 122,
+    "brand_id": 7
+  },
+  {
+    "name": "I - Series",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/isuzu/I%20-%20Series.png",
+    "id": 123,
+    "brand_id": 7
+  },
+  {
+    "name": "Fuego",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/isuzu/Fuego.png",
+    "id": 124,
+    "brand_id": 7
+  },
+  {
+    "name": "DMAX V Cross",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/isuzu/DMAX%20V%20Cross.png",
+    "id": 125,
+    "brand_id": 7
+  },
+  {
+    "name": "Ascender",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/isuzu/Ascender.png",
+    "id": 126,
+    "brand_id": 7
+  },
+  {
+    "name": "Sportivo",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/isuzu/Sportivo.png",
+    "id": 127,
+    "brand_id": 7
+  },
+  {
+    "name": "Crosswind",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/isuzu/Crosswind.png",
+    "id": 128,
+    "brand_id": 7
+  },
+  {
+    "name": "Phanter",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/isuzu/Phanter.png",
+    "id": 129,
+    "brand_id": 7
+  },
+  {
+    "name": "Forward",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/isuzu/Forward.png",
+    "id": 130,
+    "brand_id": 7
+  },
+  {
+    "name": "NPR",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/isuzu/NPR.png",
+    "id": 131,
+    "brand_id": 7
+  },
+  {
+    "name": "TF",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/isuzu/TF.png",
+    "id": 132,
+    "brand_id": 7
+  },
+  {
+    "name": "Soul",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/kia/Soul.png",
+    "id": 133,
+    "brand_id": 9
+  },
+  {
+    "name": "K2700",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/kia/K2700.png",
+    "id": 134,
+    "brand_id": 9
+  },
+  {
+    "name": "Soluto",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/kia/Soluto.png",
+    "id": 135,
+    "brand_id": 9
+  },
+  {
+    "name": "Bongo 3",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/kia/Bongo%203.png",
+    "id": 136,
+    "brand_id": 9
+  },
+  {
+    "name": "Optima",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/kia/Optima.png",
+    "id": 137,
+    "brand_id": 9
+  },
+  {
+    "name": "Carens",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/kia/Carens.png",
+    "id": 138,
+    "brand_id": 9
+  },
+  {
+    "name": "K5",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/kia/K5.png",
+    "id": 139,
+    "brand_id": 9
+  },
+  {
+    "name": "Carnnival",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/kia/Carnnival.png",
+    "id": 140,
+    "brand_id": 9
+  },
+  {
+    "name": "Ceed",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/kia/Ceed.png",
+    "id": 141,
+    "brand_id": 9
+  },
+  {
+    "name": "Rio",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/kia/Rio.png",
+    "id": 142,
+    "brand_id": 9
+  },
+  {
+    "name": "Telluride",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/kia/Telluride.png",
+    "id": 143,
+    "brand_id": 9
+  },
+  {
+    "name": "Sorento",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/kia/Sorento.png",
+    "id": 144,
+    "brand_id": 9
+  },
+  {
+    "name": "Sonet",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/kia/Sonet.png",
+    "id": 145,
+    "brand_id": 9
+  },
+  {
+    "name": "Spectra",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/kia/Spectra.png",
+    "id": 146,
+    "brand_id": 9
+  },
+  {
+    "name": "Forte",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/kia/Forte.png",
+    "id": 147,
+    "brand_id": 9
+  },
+  {
+    "name": "Cadenza",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/kia/Cadenza.png",
+    "id": 148,
+    "brand_id": 9
+  },
+  {
+    "name": "Sportage",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/kia/Sportage.png",
+    "id": 149,
+    "brand_id": 9
+  },
+  {
+    "name": "Stonic",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/kia/Stonic.png",
+    "id": 150,
+    "brand_id": 9
+  },
+  {
+    "name": "EV6",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/kia/EV6.png",
+    "id": 151,
+    "brand_id": 9
+  },
+  {
+    "name": "Seltos",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/kia/Seltos.png",
+    "id": 152,
+    "brand_id": 9
+  },
+  {
+    "name": "Niro",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/kia/Niro.png",
+    "id": 153,
+    "brand_id": 9
+  },
+  {
+    "name": "Bongo",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/kia/Bongo.png",
+    "id": 154,
+    "brand_id": 9
+  },
+  {
+    "name": "Stinger",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/kia/Stinger.png",
+    "id": 155,
+    "brand_id": 9
+  },
+  {
+    "name": "Picanto",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/kia/Picanto.png",
+    "id": 156,
+    "brand_id": 9
+  },
+  {
+    "name": "CX - 50",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/mazda/CX%20-%2050.png",
+    "id": 157,
+    "brand_id": 10
+  },
+  {
+    "name": "CX - 8",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/mazda/CX%20-%208.png",
+    "id": 158,
+    "brand_id": 10
+  },
+  {
+    "name": "CX - 9",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/mazda/CX%20-%209.png",
+    "id": 159,
+    "brand_id": 10
+  },
+  {
+    "name": "Mazda CX - 30",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/mazda/Mazda%20CX%20-%2030.png",
+    "id": 160,
+    "brand_id": 10
+  },
+  {
+    "name": "RX 3",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/mazda/RX%203.png",
+    "id": 161,
+    "brand_id": 10
+  },
+  {
+    "name": "Mazda 2",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/mazda/Mazda%202.png",
+    "id": 162,
+    "brand_id": 10
+  },
+  {
+    "name": "Mazda 3",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/mazda/Mazda%203.png",
+    "id": 163,
+    "brand_id": 10
+  },
+  {
+    "name": "Mazda 5",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/mazda/Mazda%205.png",
+    "id": 164,
+    "brand_id": 10
+  },
+  {
+    "name": "RX - 7",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/mazda/RX%20-%207.png",
+    "id": 165,
+    "brand_id": 10
+  },
+  {
+    "name": "B3-50",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/mazda/B3-50.png",
+    "id": 166,
+    "brand_id": 10
+  },
+  {
+    "name": "Mazda Bongo v1",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/mazda/Mazda%20Bongo%20v1.png",
+    "id": 167,
+    "brand_id": 10
+  },
+  {
+    "name": "Mazda RX - 8",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/mazda/Mazda%20RX%20-%208.png",
+    "id": 168,
+    "brand_id": 10
+  },
+  {
+    "name": "MX 30",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/mazda/MX%2030.png",
+    "id": 169,
+    "brand_id": 10
+  },
+  {
+    "name": "Mazda Bongo",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/mazda/Mazda%20Bongo.png",
+    "id": 170,
+    "brand_id": 10
+  },
+  {
+    "name": "Mazda Tribute",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/mazda/Mazda%20Tribute.png",
+    "id": 171,
+    "brand_id": 10
+  },
+  {
+    "name": "MX - 5",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/mazda/MX%20-%205.png",
+    "id": 172,
+    "brand_id": 10
+  },
+  {
+    "name": "MX - 5 Miata RF",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/mazda/MX%20-%205%20Miata%20RF.png",
+    "id": 173,
+    "brand_id": 10
+  },
+  {
+    "name": "Mazda 6",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/mazda/Mazda%206.png",
+    "id": 174,
+    "brand_id": 10
+  },
+  {
+    "name": "CX - 3",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/mazda/CX%20-%203.png",
+    "id": 175,
+    "brand_id": 10
+  },
+  {
+    "name": "CX - 5",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/mazda/CX%20-%205.png",
+    "id": 176,
+    "brand_id": 10
+  },
+  {
+    "name": "CX - 7",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/mazda/CX%20-%207.png",
+    "id": 177,
+    "brand_id": 10
+  },
+  {
+    "name": "Triton",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/mitsubishi/Triton.png",
+    "id": 178,
+    "brand_id": 12
+  },
+  {
+    "name": "Cedia",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/mitsubishi/Cedia.png",
+    "id": 179,
+    "brand_id": 12
+  },
+  {
+    "name": "Grandis",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/mitsubishi/Grandis.png",
+    "id": 180,
+    "brand_id": 12
+  },
+  {
+    "name": "Canter",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/mitsubishi/Canter.png",
+    "id": 181,
+    "brand_id": 12
+  },
+  {
+    "name": "Expander",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/mitsubishi/Expander.png",
+    "id": 182,
+    "brand_id": 12
+  },
+  {
+    "name": "Montero",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/mitsubishi/Montero.png",
+    "id": 183,
+    "brand_id": 12
+  },
+  {
+    "name": "Pajero",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/mitsubishi/Pajero.png",
+    "id": 184,
+    "brand_id": 12
+  },
+  {
+    "name": "Outlander PHEV",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/mitsubishi/Outlander%20PHEV.png",
+    "id": 185,
+    "brand_id": 12
+  },
+  {
+    "name": "GLS",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/mitsubishi/GLS.png",
+    "id": 186,
+    "brand_id": 12
+  },
+  {
+    "name": "Mirage",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/mitsubishi/Mirage.png",
+    "id": 187,
+    "brand_id": 12
+  },
+  {
+    "name": "Strada",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/mitsubishi/Strada.png",
+    "id": 188,
+    "brand_id": 12
+  },
+  {
+    "name": "ASX",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/mitsubishi/ASX.png",
+    "id": 189,
+    "brand_id": 12
+  },
+  {
+    "name": "Lancer Evolution",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/mitsubishi/Lancer%20Evolution.png",
+    "id": 190,
+    "brand_id": 12
+  },
+  {
+    "name": "Lancer",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/mitsubishi/Lancer.png",
+    "id": 191,
+    "brand_id": 12
+  },
+  {
+    "name": "Colt L300",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/mitsubishi/Colt%20L300.png",
+    "id": 192,
+    "brand_id": 12
+  },
+  {
+    "name": "GLX",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/mitsubishi/GLX.png",
+    "id": 193,
+    "brand_id": 12
+  },
+  {
+    "name": "Pajero Sport",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/mitsubishi/Pajero%20Sport.png",
+    "id": 194,
+    "brand_id": 12
+  },
+  {
+    "name": "Outlander",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/mitsubishi/Outlander.png",
+    "id": 195,
+    "brand_id": 12
+  },
+  {
+    "name": "Eclipse",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/mitsubishi/Eclipse.png",
+    "id": 196,
+    "brand_id": 12
+  },
+  {
+    "name": "Delica",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/mitsubishi/Delica.png",
+    "id": 197,
+    "brand_id": 12
+  },
+  {
+    "name": "L300 FB",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/mitsubishi/L300%20FB.png",
+    "id": 198,
+    "brand_id": 12
+  },
+  {
+    "name": "GTO",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/mitsubishi/GTO.png",
+    "id": 199,
+    "brand_id": 12
+  },
+  {
+    "name": "Juke",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/nissan/Juke.png",
+    "id": 200,
+    "brand_id": 13
+  },
+  {
+    "name": "Almera",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/nissan/Almera.png",
+    "id": 201,
+    "brand_id": 13
+  },
+  {
+    "name": "Caravan",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/nissan/Caravan.png",
+    "id": 202,
+    "brand_id": 13
+  },
+  {
+    "name": "Murano",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/nissan/Murano.png",
+    "id": 203,
+    "brand_id": 13
+  },
+  {
+    "name": "Leaf",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/nissan/Leaf.png",
+    "id": 204,
+    "brand_id": 13
+  },
+  {
+    "name": "Urvan",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/nissan/Urvan.png",
+    "id": 205,
+    "brand_id": 13
+  },
+  {
+    "name": "Sunny",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/nissan/Sunny.png",
+    "id": 206,
+    "brand_id": 13
+  },
+  {
+    "name": "Qashqai",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/nissan/Qashqai.png",
+    "id": 207,
+    "brand_id": 13
+  },
+  {
+    "name": "NV200",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/nissan/NV200.png",
+    "id": 208,
+    "brand_id": 13
+  },
+  {
+    "name": "Versa",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/nissan/Versa.png",
+    "id": 209,
+    "brand_id": 13
+  },
+  {
+    "name": "Altima",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/nissan/Altima.png",
+    "id": 210,
+    "brand_id": 13
+  },
+  {
+    "name": "Titan",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/nissan/Titan.png",
+    "id": 211,
+    "brand_id": 13
+  },
+  {
+    "name": "Patrol",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/nissan/Patrol.png",
+    "id": 212,
+    "brand_id": 13
+  },
+  {
+    "name": "Navarra",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/nissan/Navarra.png",
+    "id": 213,
+    "brand_id": 13
+  },
+  {
+    "name": "Sentra",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/nissan/Sentra.png",
+    "id": 214,
+    "brand_id": 13
+  },
+  {
+    "name": "Rogue Sports",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/nissan/Rogue%20Sports.png",
+    "id": 215,
+    "brand_id": 13
+  },
+  {
+    "name": "Pathfinder",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/nissan/Pathfinder.png",
+    "id": 216,
+    "brand_id": 13
+  },
+  {
+    "name": "GTR",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/nissan/GTR.png",
+    "id": 217,
+    "brand_id": 13
+  },
+  {
+    "name": "Rogue",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/nissan/Rogue.png",
+    "id": 218,
+    "brand_id": 13
+  },
+  {
+    "name": "Xterra",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/nissan/Xterra.png",
+    "id": 219,
+    "brand_id": 13
+  },
+  {
+    "name": "Maxima",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/nissan/Maxima.png",
+    "id": 220,
+    "brand_id": 13
+  },
+  {
+    "name": "Micra",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/nissan/Micra.png",
+    "id": 221,
+    "brand_id": 13
+  },
+  {
+    "name": "Kicks",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/nissan/Kicks.png",
+    "id": 222,
+    "brand_id": 13
+  },
+  {
+    "name": "Armada",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/nissan/Armada.png",
+    "id": 223,
+    "brand_id": 13
+  },
+  {
+    "name": "XV Crosstrek",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/subaru/XV%20Crosstrek.png",
+    "id": 224,
+    "brand_id": 15
+  },
+  {
+    "name": "Crosstrek",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/subaru/Crosstrek.png",
+    "id": 225,
+    "brand_id": 15
+  },
+  {
+    "name": "Forester",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/subaru/Forester.png",
+    "id": 226,
+    "brand_id": 15
+  },
+  {
+    "name": "Impreza",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/subaru/Impreza.png",
+    "id": 227,
+    "brand_id": 15
+  },
+  {
+    "name": "BRZ",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/subaru/BRZ.png",
+    "id": 228,
+    "brand_id": 15
+  },
+  {
+    "name": "Tribeca",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/subaru/Tribeca.png",
+    "id": 229,
+    "brand_id": 15
+  },
+  {
+    "name": "Legacy",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/subaru/Legacy.png",
+    "id": 230,
+    "brand_id": 15
+  },
+  {
+    "name": "WRX",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/subaru/WRX.png",
+    "id": 231,
+    "brand_id": 15
+  },
+  {
+    "name": "Ascent",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/subaru/Ascent.png",
+    "id": 232,
+    "brand_id": 15
+  },
+  {
+    "name": "Outback",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/subaru/Outback.png",
+    "id": 233,
+    "brand_id": 15
+  },
+  {
+    "name": "Levorg",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/subaru/Levorg.png",
+    "id": 234,
+    "brand_id": 15
+  },
+  {
+    "name": "Minivan Scrum",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/suzuki/Minivan%20Scrum.png",
+    "id": 235,
+    "brand_id": 16
+  },
+  {
+    "name": "Swift DZIRE",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/suzuki/Swift%20DZIRE.png",
+    "id": 236,
+    "brand_id": 16
+  },
+  {
+    "name": "Omni",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/suzuki/Omni.png",
+    "id": 237,
+    "brand_id": 16
+  },
+  {
+    "name": "Ertiga",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/suzuki/Ertiga.png",
+    "id": 238,
+    "brand_id": 16
+  },
+  {
+    "name": "Ignis",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/suzuki/Ignis.png",
+    "id": 239,
+    "brand_id": 16
+  },
+  {
+    "name": "Gypsy",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/suzuki/Gypsy.png",
+    "id": 240,
+    "brand_id": 16
+  },
+  {
+    "name": "Baleno",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/suzuki/Baleno.png",
+    "id": 241,
+    "brand_id": 16
+  },
+  {
+    "name": "Grand Vitara",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/suzuki/Grand%20Vitara.png",
+    "id": 242,
+    "brand_id": 16
+  },
+  {
+    "name": "Multicab Pick Up DA52T",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/suzuki/Multicab%20Pick%20Up%20DA52T.png",
+    "id": 243,
+    "brand_id": 16
+  },
+  {
+    "name": "S - Cross",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/suzuki/S%20-%20Cross.png",
+    "id": 244,
+    "brand_id": 16
+  },
+  {
+    "name": "Eeco",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/suzuki/Eeco.png",
+    "id": 245,
+    "brand_id": 16
+  },
+  {
+    "name": "Wagon R",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/suzuki/Wagon%20R.png",
+    "id": 246,
+    "brand_id": 16
+  },
+  {
+    "name": "Estilo",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/suzuki/Estilo.png",
+    "id": 247,
+    "brand_id": 16
+  },
+  {
+    "name": "Swift",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/suzuki/Swift.png",
+    "id": 248,
+    "brand_id": 16
+  },
+  {
+    "name": "Carry",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/suzuki/Carry.png",
+    "id": 249,
+    "brand_id": 16
+  },
+  {
+    "name": "Versa",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/suzuki/Versa.png",
+    "id": 250,
+    "brand_id": 16
+  },
+  {
+    "name": "Samurai",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/suzuki/Samurai.png",
+    "id": 251,
+    "brand_id": 16
+  },
+  {
+    "name": "Zen",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/suzuki/Zen.png",
+    "id": 252,
+    "brand_id": 16
+  },
+  {
+    "name": "Multicab Pick Up FI DA63T",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/suzuki/Multicab%20Pick%20Up%20FI%20DA63T.png",
+    "id": 253,
+    "brand_id": 16
+  },
+  {
+    "name": "Kizashi",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/suzuki/Kizashi.png",
+    "id": 254,
+    "brand_id": 16
+  },
+  {
+    "name": "Celerio",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/suzuki/Celerio.png",
+    "id": 255,
+    "brand_id": 16
+  },
+  {
+    "name": "XL6",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/suzuki/XL6.png",
+    "id": 256,
+    "brand_id": 16
+  },
+  {
+    "name": "Multicab Pick Up Scrum",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/suzuki/Multicab%20Pick%20Up%20Scrum.png",
+    "id": 257,
+    "brand_id": 16
+  },
+  {
+    "name": "Sx4",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/suzuki/Sx4.png",
+    "id": 258,
+    "brand_id": 16
+  },
+  {
+    "name": "Alto",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/suzuki/Alto.png",
+    "id": 259,
+    "brand_id": 16
+  },
+  {
+    "name": "Alto 800",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/suzuki/Alto%20800.png",
+    "id": 260,
+    "brand_id": 16
+  },
+  {
+    "name": "Wagon",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/suzuki/Wagon.png",
+    "id": 261,
+    "brand_id": 16
+  },
+  {
+    "name": "S - Presso",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/suzuki/S%20-%20Presso.png",
+    "id": 262,
+    "brand_id": 16
+  },
+  {
+    "name": "Ciaz",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/suzuki/Ciaz.png",
+    "id": 263,
+    "brand_id": 16
+  },
+  {
+    "name": "Esteem",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/suzuki/Esteem.png",
+    "id": 264,
+    "brand_id": 16
+  },
+  {
+    "name": "Minivan",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/suzuki/Minivan.png",
+    "id": 265,
+    "brand_id": 16
+  },
+  {
+    "name": "Ritz",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/suzuki/Ritz.png",
+    "id": 266,
+    "brand_id": 16
+  },
+  {
+    "name": "APV",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/suzuki/APV.png",
+    "id": 267,
+    "brand_id": 16
+  },
+  {
+    "name": "A - Star",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/suzuki/A%20-%20Star.png",
+    "id": 268,
+    "brand_id": 16
+  },
+  {
+    "name": "Jimny",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/suzuki/Jimny.png",
+    "id": 269,
+    "brand_id": 16
+  },
+  {
+    "name": "Yaris",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/toyota/Yaris.png",
+    "id": 270,
+    "brand_id": 17
+  },
+  {
+    "name": "Glanza",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/toyota/Glanza.png",
+    "id": 271,
+    "brand_id": 17
+  },
+  {
+    "name": "Corolla Altis",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/toyota/Corolla%20Altis.png",
+    "id": 272,
+    "brand_id": 17
+  },
+  {
+    "name": "Sienna",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/toyota/Sienna.png",
+    "id": 273,
+    "brand_id": 17
+  },
+  {
+    "name": "Etios Cross",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/toyota/Etios%20Cross.png",
+    "id": 274,
+    "brand_id": 17
+  },
+  {
+    "name": "86",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/toyota/86.png",
+    "id": 275,
+    "brand_id": 17
+  },
+  {
+    "name": "Corrolla",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/toyota/Corrolla.png",
+    "id": 276,
+    "brand_id": 17
+  },
+  {
+    "name": "Dyna",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/toyota/Dyna.png",
+    "id": 277,
+    "brand_id": 17
+  },
+  {
+    "name": "IQ",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/toyota/IQ.png",
+    "id": 278,
+    "brand_id": 17
+  },
+  {
+    "name": "4 Runner",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/toyota/4%20Runner.png",
+    "id": 279,
+    "brand_id": 17
+  },
+  {
+    "name": "C - HR",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/toyota/C%20-%20HR.png",
+    "id": 280,
+    "brand_id": 17
+  },
+  {
+    "name": "Wigo",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/toyota/Wigo.png",
+    "id": 281,
+    "brand_id": 17
+  },
+  {
+    "name": "Rav 4",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/toyota/Rav%204.png",
+    "id": 282,
+    "brand_id": 17
+  },
+  {
+    "name": "Hilux",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/toyota/Hilux.png",
+    "id": 283,
+    "brand_id": 17
+  },
+  {
+    "name": "Supra",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/toyota/Supra.png",
+    "id": 284,
+    "brand_id": 17
+  },
+  {
+    "name": "FJ Cruiser",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/toyota/FJ%20Cruiser.png",
+    "id": 285,
+    "brand_id": 17
+  },
+  {
+    "name": "Innova",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/toyota/Innova.png",
+    "id": 286,
+    "brand_id": 17
+  },
+  {
+    "name": "Avalon",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/toyota/Avalon.png",
+    "id": 287,
+    "brand_id": 17
+  },
+  {
+    "name": "Etios Liva",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/toyota/Etios%20Liva.png",
+    "id": 288,
+    "brand_id": 17
+  },
+  {
+    "name": "Aygo",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/toyota/Aygo.png",
+    "id": 289,
+    "brand_id": 17
+  },
+  {
+    "name": "Etios",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/toyota/Etios.png",
+    "id": 290,
+    "brand_id": 17
+  },
+  {
+    "name": "Vios",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/toyota/Vios.png",
+    "id": 291,
+    "brand_id": 17
+  },
+  {
+    "name": "Tacoma",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/toyota/Tacoma.png",
+    "id": 292,
+    "brand_id": 17
+  },
+  {
+    "name": "Tundra",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/toyota/Tundra.png",
+    "id": 293,
+    "brand_id": 17
+  },
+  {
+    "name": "Camry",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/toyota/Camry.png",
+    "id": 294,
+    "brand_id": 17
+  },
+  {
+    "name": "Furtuner",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/toyota/Furtuner.png",
+    "id": 295,
+    "brand_id": 17
+  },
+  {
+    "name": "Innova Crysta",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/toyota/Innova%20Crysta.png",
+    "id": 296,
+    "brand_id": 17
+  },
+  {
+    "name": "Land Cruiser",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/toyota/Land%20Cruiser.png",
+    "id": 297,
+    "brand_id": 17
+  },
+  {
+    "name": "HiAce",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/toyota/HiAce.png",
+    "id": 298,
+    "brand_id": 17
+  },
+  {
+    "name": "Sequoia",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/toyota/Sequoia.png",
+    "id": 299,
+    "brand_id": 17
+  },
+  {
+    "name": "Highlander",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/toyota/Highlander.png",
+    "id": 300,
+    "brand_id": 17
+  },
+  {
+    "name": "Land Cruiser Prado",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/toyota/Land%20Cruiser%20Prado.png",
+    "id": 301,
+    "brand_id": 17
+  },
+  {
+    "name": "golf gti",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/volkswagen/golf%20gti.png",
+    "id": 302,
+    "brand_id": 18
+  },
+  {
+    "name": "t-roc",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/volkswagen/t-roc.png",
+    "id": 303,
+    "brand_id": 18
+  },
+  {
+    "name": "tiguan allspace",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/volkswagen/tiguan%20allspace.png",
+    "id": 304,
+    "brand_id": 18
+  },
+  {
+    "name": "eos",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/volkswagen/eos.png",
+    "id": 305,
+    "brand_id": 18
+  },
+  {
+    "name": "t-prime",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/volkswagen/t-prime.png",
+    "id": 306,
+    "brand_id": 18
+  },
+  {
+    "name": "t-cross",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/volkswagen/t-cross.png",
+    "id": 307,
+    "brand_id": 18
+  },
+  {
+    "name": "lamado",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/volkswagen/lamado.png",
+    "id": 308,
+    "brand_id": 18
+  },
+  {
+    "name": "santana",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/volkswagen/santana.png",
+    "id": 309,
+    "brand_id": 18
+  },
+  {
+    "name": "arteon",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/volkswagen/arteon.png",
+    "id": 310,
+    "brand_id": 18
+  },
+  {
+    "name": "taos",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/volkswagen/taos.png",
+    "id": 311,
+    "brand_id": 18
+  },
+  {
+    "name": "new beetle",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/volkswagen/new%20beetle.png",
+    "id": 312,
+    "brand_id": 18
+  },
+  {
+    "name": "kombi",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/volkswagen/kombi.png",
+    "id": 313,
+    "brand_id": 18
+  },
+  {
+    "name": "jetta",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/volkswagen/jetta.png",
+    "id": 314,
+    "brand_id": 18
+  },
+  {
+    "name": "golf r",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/volkswagen/golf%20r.png",
+    "id": 315,
+    "brand_id": 18
+  },
+  {
+    "name": "tuareg",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/volkswagen/tuareg.png",
+    "id": 316,
+    "brand_id": 18
+  },
+  {
+    "name": "passat",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/volkswagen/passat.png",
+    "id": 317,
+    "brand_id": 18
+  },
+  {
+    "name": "vento",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/volkswagen/vento.png",
+    "id": 318,
+    "brand_id": 18
+  },
+  {
+    "name": "tiguan r-line",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/volkswagen/tiguan%20r-line.png",
+    "id": 319,
+    "brand_id": 18
+  },
+  {
+    "name": "jetta GLI",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/volkswagen/jetta%20GLI.png",
+    "id": 320,
+    "brand_id": 18
+  },
+  {
+    "name": "ID.4",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/volkswagen/ID.4.png",
+    "id": 321,
+    "brand_id": 18
+  },
+  {
+    "name": "scirocco",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/volkswagen/scirocco.png",
+    "id": 322,
+    "brand_id": 18
+  },
+  {
+    "name": "lavida",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/volkswagen/lavida.png",
+    "id": 323,
+    "brand_id": 18
+  },
+  {
+    "name": "golf",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/volkswagen/golf.png",
+    "id": 324,
+    "brand_id": 18
+  },
+  {
+    "name": "atlas cross sport",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/volkswagen/atlas%20cross%20sport.png",
+    "id": 325,
+    "brand_id": 18
+  },
+  {
+    "name": "tiguan",
+    "img_url": "https://tpbrgzfczohtyssijgxb.supabase.co/storage/v1/object/public/vehicle/models/volkswagen/tiguan.png",
+    "id": 326,
+    "brand_id": 18
+  }
+]
