@@ -1,0 +1,10 @@
+[
+  { "name": "Accident", "description": "", "is_active": false },
+  { "name": "Battery", "description": "", "is_active": true },
+  { "name": "Towing", "description": "", "is_active": true },
+  { "name": "Flat Tire", "description": "", "is_active": true },
+  { "name": "Fuel", "description": "", "is_active": true },
+  { "name": "Overheat", "description": "", "is_active": true },
+  { "name": "Hard Start", "description": "", "is_active": true },
+  { "name": "Key", "description": "", "is_active": true }
+]

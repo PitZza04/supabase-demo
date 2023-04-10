@@ -1,0 +1,9 @@
+id,name,description,is_active
+1,Accident,,false
+2,Battery,,true
+3,Towing,,true
+4,Flat Tire,,true
+5,Fuel,,true
+6,Overheat,,true
+7,Hard Start,,true
+8,Key,,true

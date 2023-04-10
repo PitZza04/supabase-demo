@@ -1,0 +1,56 @@
+INSERT INTO public.emergency_type (
+    name,
+    description,
+    is_active,
+    position_no
+)
+VALUES
+    (
+        'Accident',
+        '',
+        false,
+        1
+    ),
+    (
+        'Battery',
+        '',
+        true,
+        2
+    ),
+    (
+        'Towing',
+        '',
+        true,
+        3
+    )
+    ,
+    (
+        'Flat Tire',
+        '',
+        true,
+        4
+    ),
+    (
+        'Fuel',
+        '',
+        true,
+        5
+    ),
+    (
+        'Overheat',
+        '',
+        true,
+        6
+    ),
+    (
+        'Hard Start',
+        '',
+        true,
+        7
+    ),
+    (
+        'Key',
+        '',
+        true,
+        8
+    );
